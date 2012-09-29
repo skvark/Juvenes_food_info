@@ -20,6 +20,7 @@ To run:
 `python json_food_TUT.py <language>`
 
 Language: fi or en, defaults to fi if no parameter given
+
 I recommend to use cron for scheluded runs.
 
 ## License
