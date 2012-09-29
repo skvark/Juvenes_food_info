@@ -35,7 +35,7 @@ class TTYfood:
         # start runtime logging
         self.start_time = time()
         
-        # laguage ('fi' if not given)
+        # language ('fi' if not given)
         # 'en' if you want stuff in English, opening hours will not translate
         self.language = lang
         
