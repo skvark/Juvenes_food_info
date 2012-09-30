@@ -13,7 +13,9 @@ Since the code is open source, feel free to contribute or use it for your own pu
 
 ## Usage
 
-Script creates by default food.json or ruoka.json file, depending on language.
+Script creates by default ***food.json*** or ***ruoka.json*** file, depending on language.
+Example can be found from the repository.
+
 See the source and class initializer for example file path modification purposes etc.
 
 To run:
