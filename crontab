@@ -1,0 +1,2 @@
+0 */03 * * * python ~/juvenes.py fi &>> ~/logs/ruoka.log
+0 */03 * * * python ~/juvenes.py en &>> ~/logs/food.log
