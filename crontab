@@ -1,2 +1,2 @@
-0 */03 * * * python ~/juvenes.py fi &>> ~/logs/ruoka.log
-0 */03 * * * python ~/juvenes.py en &>> ~/logs/food.log
+0 */03 * * * python ~/path_to_file/json_food_TUT.py fi &>> ~/logs/ruoka.log
+0 */03 * * * python ~/path_to_file/json_food_TUT.py en &>> ~/logs/food.log
