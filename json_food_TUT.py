@@ -97,7 +97,9 @@ class TTYfood:
         
             # initializing dicts
             food = {}
-            self.info[self.week+w] = {}
+            curweek = self.week+w
+            self.info[curweek] = {}
+            self.logger.info(' Starting week '+str(curweek)+'...')
             
             for i in range(0,6): # weekdays
                 food[i] = {}
@@ -109,7 +111,7 @@ class TTYfood:
                         'kitchen': restaurant['kitchen'],
                         'menutype': restaurant['menutype'],
                         'weekday': i+1,
-                        'week': self.week+w,
+                        'week': curweek,
                         'kitcheninfoid': restaurant['kitcheninfoid'],
                         'lang': self.language
                     }
@@ -130,6 +132,7 @@ class TTYfood:
                                                 
                     except: # if there's some problem when fetching the data, this raises the error flag
                         food['error'] = True
+                        self.logger.info(' Error in fetching.')
                         return
                     try:
                         pvm = loaded_json['MealOptions'][0]['MenuDate'] # get the date
@@ -156,6 +159,7 @@ class TTYfood:
                         s = self.parse_opening_hours(str(json_info['d']))
                         food[restaurant['restaurant']+'_open'] = s
                         
+                self.logger.info(' Fetched day '+pvm+' foods successfully.')
             self.info[self.week+w] = food # save the restaurant dict to the week-key at the end of the week
         self.write_json(self.info) # move to file write
         
@@ -166,14 +170,12 @@ class TTYfood:
         data = json.dumps(dict, sort_keys=True, indent=4)
         
         if lang == 'fi':
-            f = open(self.fi, 'w+') # overwrite old and save to file
-            f.write(data + "\n")
-            f.close()
+            f = open(self.fi, 'w+') # overwrite old
         else:
-            f = open(self.en, 'w+') # overwrite old and save to file
-            f.write(data + "\n")
-            f.close()
+            f = open(self.en, 'w+') # overwrite old
             
+        f.write(data + "\n")        # save to file
+        f.close()
         self.end_time = time()
         self.logger.info(' Language was '+self.language+'.')
         self.logger.info(' Execution time: '+instance.get_execution_time()+'.')

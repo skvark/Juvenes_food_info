@@ -1,0 +1,386 @@
+{
+    "39": {
+        "0": {
+            "Edison": {
+                "LOUNAS Kasvis-": "*Kasviscanneloni pinaatti, Tomaattinen  tuorejuustokastike, T\u00e4ysjyv\u00e4ohra", 
+                "LOUNAS1": "Lohta, Tomaattinen  tuorejuustokastike, Peruna", 
+                "RUOKAISA KEITTO": "Juustoinen kanakeitto"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Kalarullaa ja wokattuja kasviksia, Lohkoperunat", 
+                "FAST PIZZA": "Tropicanapizza, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Kinkkusuikale"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Paholaisen broileriburger, Ranskanperunat", 
+                "FUSION KASVIS": "Ruis-kasvisburger, Ranskanperunat", 
+                "FUSION MEAL 2": "Naudanpihvi ja punaviinikastiketta", 
+                "FUSION PIHVI": "Porsaanpihvi ja punaviinikastike"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Karibian kasvispihvit, Yrtti-kermaviilikastike, Tumma riisi", 
+                "LOUNAS1": "Tex Mex Uunimakkaraa, Perunamuusi", 
+                "LOUNAS2": "Kalkkuna-tuorejuustokastike, Tumma riisi"
+            }, 
+            "Pastabaari": {
+                "LOUNAS Kasvis-": "Pinaatti-inkiv\u00e4\u00e4ri-kasviskastike, Pasta", 
+                "LOUNAS1": "Broileri-chilikastike, Pasta", 
+                "LOUNAS2": "Katkarapu-hoisinkastike, Pasta"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Nuudeli-kasviskeitto", 
+                "LOUNAS Kasvis-": "Juurespihvit, Chili-kasviskastike, Peruna", 
+                "LOUNAS1": "Pariloitua broileria chili-kasviskastikkeessa, Tumma riisi", 
+                "LOUNAS2": "Jauhelihalasagnette"
+            }, 
+            "date": "24.9.2012"
+        }, 
+        "1": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Punajuurikroketit kasvispedill\u00e4, Cheddarjuustokastike, Peruna", 
+                "LOUNAS1": "Jauhelihakebakot, Cheddarjuustokastike, Peruna", 
+                "RUOKAISA KEITTO": "Kermainen kalakeitto"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Kalarullaa ja wokattuja kasviksia, Lohkoperunat", 
+                "FAST PIZZA": "Tropicanapizza, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Kinkkusuikale"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Paholaisen broileriburger, Ranskanperunat", 
+                "FUSION KASVIS": "Ruis-kasvisburger, Ranskanperunat", 
+                "FUSION MEAL 2": "Naudanpihvi ja punaviinikastiketta", 
+                "FUSION PIHVI": "Porsaanpihvi ja punaviinikastike"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Kasvismakaronilaatikko, Persiljaperuna, Uunijuureksia", 
+                "LOUNAS1": "Kananpojan sis\u00e4fileet\u00e4, Hunaja - currykastikeessa, Tumma riisi", 
+                "LOUNAS2": "Frikadellit chili-tomaattikastikkeessa, Persiljaperuna"
+            }, 
+            "Pastabaari": {
+                "LOUNAS Kasvis-": "Pinaatti-inkiv\u00e4\u00e4ri-kasviskastike, Pasta", 
+                "LOUNAS1": "Broileri-chilikastike, Pasta", 
+                "LOUNAS2": "Katkarapu-hoisinkastike, Pasta"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Tulinen tomaattikeitto", 
+                "LOUNAS Kasvis-": "Munakoisopihvit, Tilli-jogurttikastike, T\u00e4ysjyv\u00e4ohra", 
+                "LOUNAS1": "Lohileikkeet, Tilli-jogurttikastike, Tilliperunat", 
+                "LOUNAS2": "Metvursti - pepperonikastike, Kuitupastaa"
+            }, 
+            "date": "25.9.2012"
+        }, 
+        "2": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Parmesan kuorrutettu kasvisrisotto, Uunijuureksia ja kurpitsansiemeni\u00e4", 
+                "LOUNAS1": "Porsaan selykset, Tumma sipulikastike, Peruna", 
+                "RUOKAISA KEITTO": "Nakkikeitto"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Pitakebab, Lohkoperunat", 
+                "FAST PIZZA": "Pepperonipizza, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Kinkkusuikale"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Jauheliha-salsaburger, Ranskanperunat", 
+                "FUSION KASVIS": "Ruis-kasvisburger, Ranskanperunat", 
+                "FUSION MEAL 2": "Naudanpihvi ja punaviinikastiketta", 
+                "FUSION PIHVI": "Porsaanpihvi ja punaviinikastike"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Linssi- kasvismoussaka, Uunijuureksia", 
+                "LOUNAS1": "H\u00e4r\u00e4nmurekepihvit, Viherpippurikastike, Peruna", 
+                "LOUNAS2": "Broileri - pekonikastike, Kuitupasta"
+            }, 
+            "Pastabaari": {
+                "LOUNAS Kasvis-": "Tomaatti-pestokastike, Tortellini", 
+                "LOUNAS1": "Metwursti-herkkusienikastike, Tortellini", 
+                "LOUNAS2": "Pekoni-punasipulikastike, Tortellini"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Bataattisosekeitto", 
+                "LOUNAS Kasvis-": "Vihannespihvit parilalta, Puolukkahillo, Peruna", 
+                "LOUNAS1": "Tulista kananpoikaa, Jasmiiniriisi", 
+                "LOUNAS2": "Tomaattisilakat, Peruna"
+            }, 
+            "date": "26.9.2012"
+        }, 
+        "3": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Kasvispihvit, Sitruunamajoneesi, Uunijuureksia ja kurpitsansiemeni\u00e4", 
+                "LOUNAS1": "Chilinakit, Lohkoperunat, Sinappirelish", 
+                "RUOKAISA KEITTO": "Hernekeitto, Pannukakku ja hillo"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Pitakebab, Lohkoperunat", 
+                "FAST PIZZA": "Pepperonipizza, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, Broilerin paistisuikale"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Jauheliha-salsaburger, Ranskanperunat", 
+                "FUSION KASVIS": "Ruis-kasvisburger, Ranskanperunat", 
+                "FUSION MEAL 2": "Naudanpihvi ja punaviinikastiketta", 
+                "FUSION PIHVI": "Porsaanpihvi ja punaviinikastike"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Kasvis-kaalilaatikko, Puolukkahillo, Uunijuureksia", 
+                "LOUNAS1": "Broilerinuggetit, Tomaattikastike, Tumma riisi", 
+                "LOUNAS2": "Kinkku- herkkusienikastike, Pasta"
+            }, 
+            "Pastabaari": {
+                "LOUNAS Kasvis-": "Tomaatti-pestokastike, Tortellini", 
+                "LOUNAS1": "Metwursti-herkkusienikastike, Tortellini", 
+                "LOUNAS2": "Pekoni-punasipulikastike, Tortellini"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Sipulikeitto", 
+                "LOUNAS Kasvis-": "Kasvispizza", 
+                "LOUNAS1": "Lihapullat, Kermainen pippurikastike, Persiljaperuna", 
+                "LOUNAS2": "Tumma riisi, Broileriwokki"
+            }, 
+            "date": "27.9.2012"
+        }, 
+        "4": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Kasvist\u00e4ytteiset kev\u00e4trullat, Curry-persiljakastike, Uunijuureksia ja kurpitsansiemeni\u00e4", 
+                "LOUNAS1": "Broilerinfileet\u00e4, Curry-persiljakastike, Tumma riisi", 
+                "RUOKAISA KEITTO": "Frikadellikeitto"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Siivet 10 kpl, Aurajuustodippi, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, Broilerin paistisuikale"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Jauheliha-salsaburger, Ranskanperunat", 
+                "FUSION KASVIS": "Ruis-kasvisburger, Ranskanperunat", 
+                "FUSION MEAL 2": "Naudanpihvi ja punaviinikastiketta", 
+                "FUSION PIHVI": "Porsaanpihvi ja punaviinikastike"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Mets\u00e4st\u00e4j\u00e4n kasvisleip\u00e4, Uunijuureksia", 
+                "LOUNAS1": "Porsaanleike, Herkkusienimuhennos, Peruna", 
+                "LOUNAS2": "Lohipy\u00f6ryk\u00e4t, Tilli-kermaviilikastike, Peruna"
+            }, 
+            "Pastabaari": {}, 
+            "Zip": {
+                "KEVYTKEITTO": "Purjo-perunasosekeitto", 
+                "LOUNAS Kasvis-": "Soijapy\u00f6rykk\u00e4wok, Yrttiriisi, Paahdettuja porkkanoita", 
+                "LOUNAS1": "Sitruuna-persiljaleivitetty hietakampelafilee, Aurinkokuivattutomaatti-kermaviilikastike, Peruna", 
+                "LOUNAS2": "Bolognesekastike, Pasta"
+            }, 
+            "date": "28.9.2012"
+        }, 
+        "5": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Kasvis-papukroketit, Aurinkokuivattutomaatti-kermaviilikastike, Tumma riisi", 
+                "LOUNAS1": "Ranskalainen kala, Aurinkokuivattutomaatti-kermaviilikastike, Peruna", 
+                "RUOKAISA KEITTO": "Makkarakeitto"
+            }, 
+            "Fast Voltti": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Pastabaari": {}, 
+            "Zip": {}, 
+            "date": "29.9.2012"
+        }, 
+        "Edison_open": "ma-to 10.30-15.00 pe 10.30-14.30 la 11.00-14.00", 
+        "Fast Voltti_open": "Kahvila Voltti ma-to 8.45-18.30 pe 8.45-15 Voltti & Fast ma-to 11.30-15 pe 11.30-14", 
+        "Fusion Kitchen_open": "ma-pe klo 10.30-14.30", 
+        "Newton_open": "ma-to klo 10.30-16.00 pe 10.30-15.00", 
+        "Pastabaari_open": "ma-to 15-18.30", 
+        "Zip_open": "Ma-to 10.30-15.00 Pe 10.30-14.30"
+    }, 
+    "40": {
+        "0": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Kikhernepihvit, Rakuunakermaviili, Lohkoperunat", 
+                "LOUNAS1": "Fish&Chips, Rakuunakermaviili", 
+                "RUOKAISA KEITTO": "Lihakeitto"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Porsaan paahtokylke\u00e4 ja wokattuja kasviksia, Lohkoperunat", 
+                "FAST PIZZA": "Tropicanapizza, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Tonnikala"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Finger food", 
+                "FUSION KASVIS": "Kasvisburger, Ranskanperunat", 
+                "FUSION PIHVI": "Porsaanpihvi ja maustevoi", 
+                "FUSION PIHVI 2": "Naudanpihvi ja maustevoi"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Pinaattiohukainen, Kantarellikastike, Persiljaperuna", 
+                "LOUNAS1": "Herkkulihapy\u00f6ryk\u00e4t, Kantarellikastike, Persiljaperuna", 
+                "LOUNAS2": "Tonnikala-nuudelivuoka"
+            }, 
+            "Pastabaari": {
+                "LOUNAS Kasvis-": "Kukkakaali-aurajuustokastike, Tortellini", 
+                "LOUNAS1": "Bolognaisekastike, Tortellini", 
+                "LOUNAS2": "Kala-pestokastike, Tortellini"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Porkkana - aurajuustokeitto", 
+                "LOUNAS Kasvis-": "Tomaatti - mozzarellapaistos, Yrttimarinoidut juurekset", 
+                "LOUNAS1": "Pariloitu possunpihvi, Kermainen sinappikastike, Peruna", 
+                "LOUNAS2": "Kalkkuna-paprikakastike, T\u00e4ysjyv\u00e4pasta"
+            }, 
+            "date": "1.10.2012"
+        }, 
+        "1": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Kasvishampurilainen, Lohkoperunat", 
+                "LOUNAS1": "Kebabhampurilainen, Lohkoperunat", 
+                "RUOKAISA KEITTO": "Katkarapukeitto"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Porsaan paahtokylke\u00e4 ja wokattuja kasviksia, Lohkoperunat", 
+                "FAST PIZZA": "Tropicanapizza, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Tonnikala"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Finger food", 
+                "FUSION KASVIS": "Kasvisburger, Ranskanperunat", 
+                "FUSION PIHVI": "Porsaanpihvi ja maustevoi", 
+                "FUSION PIHVI 2": "Naudanpihvi ja maustevoi"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Feta-kasvispizza, Paahdettuja porkkanoita", 
+                "LOUNAS1": "Kinkku-ananaspizza", 
+                "LOUNAS2": "Katkarapukasari, Tumma riisi"
+            }, 
+            "Pastabaari": {
+                "LOUNAS Kasvis-": "Kukkakaali-aurajuustokastike, Tortellini", 
+                "LOUNAS1": "Bolognaisekastike, Tortellini", 
+                "LOUNAS2": "Kala-pestokastike, Tortellini"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Mausteinen tomaattikeitto", 
+                "LOUNAS Kasvis-": "Punajuurikroketit kasvispedill\u00e4, Chili-bearnaisekastike, Yrttimarinoidut juurekset", 
+                "LOUNAS1": "Broilerinfileet\u00e4, Chili-bearnaisekastike, Tumma riisi", 
+                "LOUNAS2": "Jauheliha-makaronilaatikko"
+            }, 
+            "date": "2.10.2012"
+        }, 
+        "2": {
+            "Edison": {
+                "LOUNAS Kasvis-": "V\u00e4limeren kasvisgratiini, Persiljaperuna, Paahdetuttuja porkkanoita", 
+                "LOUNAS1": "H\u00e4r\u00e4nmurekepihvit, Tumma pippurikastike, Persiljaperuna", 
+                "RUOKAISA KEITTO": "Toscanalainen kanakeitto"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Jauheliha-guacamoleburger, Lohkoperunat", 
+                "FAST PIZZA": "Pepperonipizza, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, Tonnikala"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Tuplajuustoburger, Ranskanperunat", 
+                "FUSION KASVIS": "Kasvisburger, Ranskanperunat", 
+                "FUSION PIHVI": "Porsaanpihvi ja maustevoi", 
+                "FUSION PIHVI 2": "Naudanpihvi ja maustevoi"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Kasvis-papukroketit, Rosepippuri - tuorejuustokastike, Tumma riisi", 
+                "LOUNAS1": "Broilerinfileet\u00e4, Rosepippuri - tuorejuustokastike, Tumma riisi", 
+                "LOUNAS2": "Nakkikastike, Peruna"
+            }, 
+            "Pastabaari": {
+                "LOUNAS Kasvis-": "Soija-kasviskastike, Pasta", 
+                "LOUNAS1": "Kalkkuna-bbq-kastike, Pasta", 
+                "LOUNAS2": "Minilihapulla-tuorejuustokastike, Pasta"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Kes\u00e4keitto", 
+                "LOUNAS Kasvis-": "Juustot\u00e4ytteiset falafelpy\u00f6ryk\u00e4t, Tomaattikastike, Yrttiriisi", 
+                "LOUNAS1": "Tulinen uunimakkara, Perunamuusi", 
+                "LOUNAS2": "Lohi-seiwokki, Yrttiriisi"
+            }, 
+            "date": "3.10.2012"
+        }, 
+        "3": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Karibian kasvispihvit, Kurkumakastike, Paahdetuttuja porkkanoita", 
+                "LOUNAS1": "Kananpojan sis\u00e4fileet\u00e4 kurkumakastikkeessa, Tumma riisi", 
+                "RUOKAISA KEITTO": "Hernekeitto, Pannukakku ja hillo"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Jauheliha-guacamoleburger, Lohkoperunat", 
+                "FAST PIZZA": "Pepperonipizza, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, Broilerin paistisuikale"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Tuplajuustoburger, Ranskanperunat", 
+                "FUSION KASVIS": "Kasvisburger, Ranskanperunat", 
+                "FUSION PIHVI": "Porsaanpihvi ja maustevoi", 
+                "FUSION PIHVI 2": "Naudanpihvi ja maustevoi"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Texasin punajuuripihvit, Aurinkokuivattu tomaatti-kermaviilkastike, Peruna", 
+                "LOUNAS1": "Lohta, Aurinkokuivattu tomaatti-kermaviilkastike, Tilliperunat", 
+                "LOUNAS2": "Broileri-pastapaistos"
+            }, 
+            "Pastabaari": {
+                "LOUNAS Kasvis-": "Soija-kasviskastike, Pasta", 
+                "LOUNAS1": "Kalkkuna-bbq-kastike, Pasta", 
+                "LOUNAS2": "Minilihapulla-tuorejuustokastike, Pasta"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Herkkusienikeitto", 
+                "LOUNAS Kasvis-": "Feta-pinaattipiirakka, Yrttimarinoidut juurekset", 
+                "LOUNAS1": "*Wienerleike, Sitruuna-kaprismajoneesi, Peruna", 
+                "LOUNAS2": "Broileripataa kasviksilla, Tumma riisi"
+            }, 
+            "date": "4.10.2012"
+        }, 
+        "4": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Juustot\u00e4ytteiset falafelpy\u00f6ryk\u00e4t, Sitruunamajoneesi, Peruna", 
+                "LOUNAS1": "Sitruunakala, Sitruunamajoneesi, Perunamuusi", 
+                "RUOKAISA KEITTO": "Jauhelihakeitto"
+            }, 
+            "Fast Voltti": {
+                "FAST MEAL": "Siivet 10 kpl, Aurajuustodippi, Lohkoperunat", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, Broilerin paistisuikale"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Tuplajuustoburger, Ranskanperunat", 
+                "FUSION KASVIS": "Kasvisburger, Ranskanperunat", 
+                "FUSION PIHVI": "Porsaanpihvi ja maustevoi", 
+                "FUSION PIHVI 2": "Naudanpihvi ja maustevoi"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "J\u00e4ttipapu-ratatouille, T\u00e4ysjyv\u00e4ohra, Paahdettuja porkkanoita", 
+                "LOUNAS1": "Broileripihvit, Kurkumakastike, T\u00e4ysjyv\u00e4ohra", 
+                "LOUNAS2": "Bolognesekastike, Kuitupasta"
+            }, 
+            "Pastabaari": {}, 
+            "Zip": {
+                "KEVYTKEITTO": "Mustajuurikeitto", 
+                "LOUNAS Kasvis-": "Kasviscannelonit yrtti-kermakastikkeessa, Yrttimarinoidut juurekset, Persiljaperuna", 
+                "LOUNAS1": "Lindstr\u00f6minpihvi, Ruohosipuli - kermaviilikastike, Persiljaperuna", 
+                "LOUNAS2": "Kermainen pyttipannu"
+            }, 
+            "date": "5.10.2012"
+        }, 
+        "5": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Juustoinen kasviskastike, Kuitupasta", 
+                "LOUNAS1": "Herkkulihapy\u00f6rykk\u00e4, Kermainen pippurikastike, Peruna", 
+                "RUOKAISA KEITTO": "Kermainen lohikeitto"
+            }, 
+            "Fast Voltti": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Pastabaari": {}, 
+            "Zip": {}, 
+            "date": "6.10.2012"
+        }, 
+        "Edison_open": "ma-to 10.30-15.00 pe 10.30-14.30 la 11.00-14.00", 
+        "Fast Voltti_open": "Kahvila Voltti ma-to 8.45-18.30 pe 8.45-15 Voltti & Fast ma-to 11.30-15 pe 11.30-14", 
+        "Fusion Kitchen_open": "ma-pe klo 10.30-14.30", 
+        "Newton_open": "ma-to klo 10.30-16.00 pe 10.30-15.00", 
+        "Pastabaari_open": "ma-to 15-18.30", 
+        "Zip_open": "Ma-to 10.30-15.00 Pe 10.30-14.30"
+    }, 
+    "date_updated": "2012-09-30T14:40:24", 
+    "error": "False"
+}
