@@ -45,7 +45,7 @@ class TTYfood:
         
         # inits dict with update time and error-flag
         # JSON time format: datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-        self.info = {'date_updated':time(), 'error':'False' }
+        self.info = {'update_timestamp':time(), 'error':'False' }
         
         # inits time variables
         self.year, self.week, self.weekdays = datetime.date.today().isocalendar()
