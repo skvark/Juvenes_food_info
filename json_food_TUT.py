@@ -1,13 +1,12 @@
 ﻿#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 import datetime
 import urllib2
 import json
 import re
 import HTMLParser
 import logging
-from sys import argv
-from time import time
+import sys
+import time
 
 # Copyright 2012 Olli-Pekka Heinisuo
 #
@@ -27,28 +26,28 @@ from time import time
 # Outputs JSON-formatted files
 # See documentation for more specific info
 
-class TTYfood:
+class TTYfood(object):
     """Creates nice JSON files about food and other general info of TTY Juvenes restaurants"""
     
     def __init__(self, lang = 'fi'):
     
         # start runtime logging
-        self.start_time = time()
+        self._start_time = time.time()
         
         # language ('fi' if not given)
         # 'en' if you want stuff in English, opening hours will not translate
-        self.language = lang
+        self._language = lang
         
         # filepaths/names
-        self.en = 'food.json'
-        self.fi = 'ruoka.json'
+        self._en = 'food.json'
+        self._fi = 'ruoka.json'
         
         # inits dict with update time and error-flag
         # JSON time format: datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-        self.info = {'update_timestamp':time(), 'error':'False' }
+        self._info = {'update_timestamp':time.time(), 'error':'False' }
         
         # inits time variables
-        self.year, self.week, self.weekdays = datetime.date.today().isocalendar()
+        self._year, self._week, self._weekdays = datetime.date.today().isocalendar()
         
         # This list/dict contains info about every restaurant...
         # I did spent some hours figuring out those random little funny numbers from Juvenes site, wasn't funny :(
@@ -57,7 +56,7 @@ class TTYfood:
         # However, GetKitchenInfo-method magically appears to accept those openinfoid's when inserted
         # in KitchenId's place and the API returns some crazy html/css crap with opening hours in the middle :D
         
-        self.restaurants = [
+        self._restaurants = [
             {'restaurant': 'Newton', 'kitchen': 6, 'menutype': 60, 'kitcheninfoid': 2352 },
             {'restaurant': 'Zip', 'kitchen': 12, 'menutype': 60, 'kitcheninfoid': 2360 },
             {'restaurant': 'Edison', 'kitchen': 2, 'menutype': 60, 'kitcheninfoid': 2364 },
@@ -69,14 +68,14 @@ class TTYfood:
         # Logger
         logging.basicConfig(format='%(asctime)s %(levelname)s:%(message)s', 
                             level=logging.INFO)
-        self.logger = logging.getLogger()
+        self._logger = logging.getLogger()
         
         # Urllib2 client
-        self.opener = urllib2.build_opener()
-        self.opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-        self.default_timeout = 20
+        self._opener = urllib2.build_opener()
+        self._opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+        self._default_timeout = 20
         
-    def parse_opening_hours(self, data_string):
+    def _parse_opening_hours(self, data_string):
         """Parses some spaghetti html and inline css off and 
         returns nicely formatted opening hours"""
         
@@ -92,20 +91,20 @@ class TTYfood:
     def fetch_food(self):
         """Loops trough two weeks, day by day, restaurant by restaurant via this API 
         http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx
-        and saves the restaurant and food info into simple JSON file"""
+        and returns info as a dictionary"""
         
         for w in range(0,2): # loop for weeks
         
             # initializing dicts
             food = {}
-            curweek = self.week+w
-            self.info[curweek] = {}
-            self.logger.info(' Starting week '+str(curweek)+'...')
+            curweek = self._week+w
+            self._info[curweek] = {}
+            self._logger.info(' Starting week '+str(curweek)+'...')
             
             for i in range(0,6): # weekdays
                 food[i] = {}
                 
-                for restaurant in self.restaurants:
+                for restaurant in self._restaurants:
                 
                     restr = {}
                     fetch_parameters = { # setting the GET params
@@ -114,11 +113,11 @@ class TTYfood:
                         'weekday': i+1,
                         'week': curweek,
                         'kitcheninfoid': restaurant['kitcheninfoid'],
-                        'lang': self.language
+                        'lang': self._language
                     }
                     try:
                     
-                        fetched_data = self.opener.open('http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx/GetMenuByWeekday?KitchenId=%(kitchen)s&MenuTypeId=%(menutype)s&Week=%(week)d&Weekday=%(weekday)d&lang=\'%(lang)s\'&format=json' % fetch_parameters)
+                        fetched_data = self._opener.open('http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx/GetMenuByWeekday?KitchenId=%(kitchen)s&MenuTypeId=%(menutype)s&Week=%(week)d&Weekday=%(weekday)d&lang=\'%(lang)s\'&format=json' % fetch_parameters)
                         decoded_data = fetched_data.read().decode('utf-8')
                         
                         # stripping some stuff out from the "json"
@@ -128,7 +127,7 @@ class TTYfood:
                         loaded_json = json.loads(decoded_data)
                         
                         if i == 0: # this gets the opening hours at every "monday" for the week (they are the same whole week)
-                            fetched_data_info = self.opener.open('http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx/GetKitchenInfo?KitchenInfoId=%(kitcheninfoid)s&lang=\'%(lang)s\'&format=json' % fetch_parameters)
+                            fetched_data_info = self._opener.open('http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx/GetKitchenInfo?KitchenInfoId=%(kitcheninfoid)s&lang=\'%(lang)s\'&format=json' % fetch_parameters)
                             decoded_data_info = fetched_data_info.read().decode('utf-8')
                                                 
                     except: # if there's some problem when fetching the data, this raises the error flag
@@ -157,45 +156,47 @@ class TTYfood:
                     if i == 0: # if "monday", parse and save the opening hours
                     
                         json_info = json.loads(decoded_data_info.strip()[1:-2])
-                        s = self.parse_opening_hours(str(json_info['d']))
+                        s = self._parse_opening_hours(str(json_info['d']))
                         food[restaurant['restaurant']+'_open'] = s
                         
-                self.logger.info(' Fetched day '+pvm+' foods successfully.')
-            self.info[self.week+w] = food # save the restaurant dict to the week-key at the end of the week
-        self.write_json(self.info) # move to file write
+                self._logger.info(' Fetched day '+pvm+' foods successfully.')
+            self._info[self._week+w] = food # save the restaurant dict to the week-key at the end of the week
+        self._end_time = time.time()
+        self._logger.info(' Language was '+self._language+'.')
+        self._logger.info(' Fetch time: '+instance._get_execution_time()+'.')
+        return self._info # class return food dictionary
         
-    def write_json(self, dict):
-        """Writes JSON to file and logs general info"""
-        
-        # sorts keys and adds indent for more pretty output
-        data = json.dumps(dict, sort_keys=True, indent=4)
-        
-        if lang == 'fi':
-            f = open(self.fi, 'w+') # overwrite old
-        else:
-            f = open(self.en, 'w+') # overwrite old
-            
-        f.write(data + "\n")        # save to file
-        f.close()
-        self.end_time = time()
-        self.logger.info(' Language was '+self.language+'.')
-        self.logger.info(' Execution time: '+instance.get_execution_time()+'.')
-        
-    def get_execution_time(self):
+    def _get_execution_time(self):
         """Returns execution time"""
     
-        return "%.2f" % (self.end_time-self.start_time, )
+        return "%.2f" % (self._end_time-self._start_time, )
+        
+# function for writing the dict into an JSON file.        
+def write_json(language, food_dict):
+    """Writes JSON to file"""
+        
+    # sorts keys and adds indent for more pretty output
+    data = json.dumps(food_dict, sort_keys=True, indent=4)
+        
+    if lang == 'fi':
+        f = open('ruoka.json', 'w+') # overwrite old
+    else:
+        f = open('food.json', 'w+') # overwrite old
+            
+    f.write(data + "\n")        # save to file
+    f.close()
+    print "Wrote JSON to file."
 
 # usage example
 # accepts "fi" and "en" as parameters
-
 if __name__ == "__main__":
-    if len(argv) > 1:
-        lang = argv[1]
+    if len(sys.argv) > 1:
+        lang = sys.argv[1]
         if lang != 'en' and  lang != 'fi':
             exit('Parameter error. Parameter was: '+lang+' Accepted values: none, fi, en')
     else:    
         lang = 'fi'
         
     instance = TTYfood(lang) # inits object
-    instance.fetch_food() # fetches the stuff
+    food = instance.fetch_food() # fetches the stuff
+    write_json(lang, food) # writes json
