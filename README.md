@@ -1,15 +1,17 @@
-# TUT restaurant's food info in JSON
+# Juvenes food info in JSON
 
-This project's main goal is to offer an easy way to get food data from Tampere University of Technology.
+This project's main goal is to offer an easy way to get food data from (Juvenes) restaurants located in different campuses around Tampere.
 
-I hope someone could build an web app (html5 etc.) or mobile app with help of this interface.
-
-If not, I'll do it myself :D
+I'm currently building an HTML5 web application on top of this.
 
 I'm not going to promise full uptime for the interface, but the data can be fetched from [relativity.fi](http://relativity.fi/juvenes/index.html)
 (Currently only in Finnish, documentation can be found there too)
 
 Since the code is open source, feel free to contribute or use it for your own purposes as long as licence conditions are met.
+
+## Changelog
+
+* 27.12.2012 Added preliminary support for TAY, TAMK and TAKK campuses
 
 ## Usage
 
