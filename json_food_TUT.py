@@ -56,6 +56,7 @@ class TTYfood(object):
         # However, GetKitchenInfo-method magically appears to accept those openinfoid's when inserted
         # in KitchenId's place and the API returns some crazy html/css crap with opening hours in the middle :D
         
+        # More stuff (cafes) will be added later...
         self._restaurants = [
             {'restaurant': 'Newton', 'kitchen': 6, 'menutype': 60, 'kitcheninfoid': 2352 },
             {'restaurant': 'Zip', 'kitchen': 12, 'menutype': 60, 'kitcheninfoid': 2360 },
@@ -63,6 +64,29 @@ class TTYfood(object):
             {'restaurant': 'Pastabaari', 'kitchen': 26, 'menutype': 11, 'kitcheninfoid': 2368 },
             {'restaurant': 'Fast Voltti', 'kitchen': 25, 'menutype': 4, 'kitcheninfoid': 2366 },
             {'restaurant': 'Fusion Kitchen', 'kitchen': 6, 'menutype': 3, 'kitcheninfoid': 2354 }
+        ]
+        
+        # More stuff (cafes) will be added later...
+        self._restaurants_tay = [
+            {'restaurant': 'Café Alakuppila', 'kitchen': 30, 'menutype': 58, 'kitcheninfoid': 2342 },
+            {'restaurant': 'Intro', 'kitchen': 13, 'menutype': 2, 'kitcheninfoid': 2338 },
+            {'restaurant': 'Salaattibaari', 'kitchen': 13, 'menutype': 5, 'kitcheninfoid': 2336 },
+            {'restaurant': 'Fusion Kitchen', 'kitchen': 13, 'menutype': 3, 'kitcheninfoid': 2334 }
+        ]
+        self._restaurants_tay_kauppi = [
+            {'restaurant': 'Medica Bio', 'kitchen': 5, 'menutype': 60, 'kitcheninfoid': 2346 },
+            {'restaurant': 'Medica Arvo', 'kitchen': 27, 'menutype': 60, 'kitcheninfoid': 2348 }
+        ]
+        
+        self._restaurants_tamk = [
+            {'restaurant': 'Dot (Ziberia)', 'kitchen': 15, 'menutype': 60, 'kitcheninfoid': 2324 }
+        ]
+        
+        self._restaurants_takk = [
+            {'restaurant': 'Nasta', 'kitchen': 22, 'menutype': 60, 'kitcheninfoid': 2328 },
+            {'restaurant': 'Fusion Kitchen & Panini Meal', 'kitchen': 22, 'menutype': 3, 'kitcheninfoid': 2328 },
+            {'restaurant': 'Salad & Soup', 'kitchen': 22, 'menutype': 23, 'kitcheninfoid': 2328 },
+           #{'restaurant': 'Café Mesta', 'kitchen': , 'menutype': , 'kitcheninfoid': }
         ]
         
         # Logger
