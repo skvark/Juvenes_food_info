@@ -29,7 +29,7 @@ import time
 class TTYfood(object):
     """Creates nice JSON files about food and other general info of TTY Juvenes restaurants"""
     
-    def __init__(self, lang = 'fi'):
+    def __init__(self, location = 'TUT', lang = 'fi'):
     
         # start runtime logging
         self._start_time = time.time()
@@ -38,13 +38,12 @@ class TTYfood(object):
         # 'en' if you want stuff in English, opening hours will not translate
         self._language = lang
         
-        # filepaths/names
-        self._en = 'food.json'
-        self._fi = 'ruoka.json'
+        # location
+        self._location = location
         
         # inits dict with update time and error-flag
         # JSON time format: datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-        self._info = {'update_timestamp':time.time(), 'error':'False' }
+        self._info = {'update_timestamp':time.time(), 'fatal_error':'False' }
         
         # inits time variables
         self._year, self._week, self._weekdays = datetime.date.today().isocalendar()
@@ -56,39 +55,42 @@ class TTYfood(object):
         # However, GetKitchenInfo-method magically appears to accept those openinfoid's when inserted
         # in KitchenId's place and the API returns some crazy html/css crap with opening hours in the middle :D
         
-        # More stuff (cafes) will be added later...
         self._restaurants = [
-            {'restaurant': 'Newton', 'kitchen': 6, 'menutype': 60, 'kitcheninfoid': 2352 },
-            {'restaurant': 'Zip', 'kitchen': 12, 'menutype': 60, 'kitcheninfoid': 2360 },
-            {'restaurant': 'Edison', 'kitchen': 2, 'menutype': 60, 'kitcheninfoid': 2364 },
-            {'restaurant': 'Pastabaari', 'kitchen': 26, 'menutype': 11, 'kitcheninfoid': 2368 },
-            {'restaurant': 'Fast Voltti', 'kitchen': 25, 'menutype': 4, 'kitcheninfoid': 2366 },
-            {'restaurant': 'Fusion Kitchen', 'kitchen': 6, 'menutype': 3, 'kitcheninfoid': 2354 }
+            # TUT
+            # More stuff (cafes) will be added later...
+            [
+                {'restaurant': 'Newton', 'kitchen': 6, 'menutype': 60, 'kitcheninfoid': 2352 },
+                {'restaurant': 'Zip', 'kitchen': 12, 'menutype': 60, 'kitcheninfoid': 2360 },
+                {'restaurant': 'Edison', 'kitchen': 2, 'menutype': 60, 'kitcheninfoid': 2364 },
+                {'restaurant': 'Pastabaari', 'kitchen': 26, 'menutype': 11, 'kitcheninfoid': 2368 },
+                {'restaurant': 'Fast Voltti', 'kitchen': 25, 'menutype': 62, 'kitcheninfoid': 2366 },
+                {'restaurant': 'Fusion Kitchen', 'kitchen': 6, 'menutype': 3, 'kitcheninfoid': 2354 }
+            ],
+            #TAY
+            # More stuff (cafes) will be added later...
+            [
+                {'restaurant': 'Café Alakuppila', 'kitchen': 30, 'menutype': 58, 'kitcheninfoid': 2342 },
+                {'restaurant': 'Intro', 'kitchen': 13, 'menutype': 2, 'kitcheninfoid': 2338 },
+                {'restaurant': 'Salaattibaari', 'kitchen': 13, 'menutype': 5, 'kitcheninfoid': 2336 },
+                {'restaurant': 'Fusion Kitchen', 'kitchen': 13, 'menutype': 3, 'kitcheninfoid': 2334 }
+            ],
+            # TAY Kauppi
+            [
+                {'restaurant': 'Medica Bio', 'kitchen': 5, 'menutype': 60, 'kitcheninfoid': 2346 },
+                {'restaurant': 'Medica Arvo', 'kitchen': 27, 'menutype': 60, 'kitcheninfoid': 2348 }
+            ],
+            # TAMK
+            [
+                {'restaurant': 'Dot (Ziberia)', 'kitchen': 15, 'menutype': 60, 'kitcheninfoid': 2324 }
+            ],
+            # TAKK
+            [
+                {'restaurant': 'Nasta', 'kitchen': 22, 'menutype': 60, 'kitcheninfoid': 2328 },
+                {'restaurant': 'Fusion Kitchen & Panini Meal', 'kitchen': 22, 'menutype': 3, 'kitcheninfoid': 2328 },
+                {'restaurant': 'Salad & Soup', 'kitchen': 22, 'menutype': 23, 'kitcheninfoid': 2328 },
+               #{'restaurant': 'Café Mesta', 'kitchen': , 'menutype': , 'kitcheninfoid': }
+            ]
         ]
-        
-        # More stuff (cafes) will be added later...
-        self._restaurants_tay = [
-            {'restaurant': 'Café Alakuppila', 'kitchen': 30, 'menutype': 58, 'kitcheninfoid': 2342 },
-            {'restaurant': 'Intro', 'kitchen': 13, 'menutype': 2, 'kitcheninfoid': 2338 },
-            {'restaurant': 'Salaattibaari', 'kitchen': 13, 'menutype': 5, 'kitcheninfoid': 2336 },
-            {'restaurant': 'Fusion Kitchen', 'kitchen': 13, 'menutype': 3, 'kitcheninfoid': 2334 }
-        ]
-        self._restaurants_tay_kauppi = [
-            {'restaurant': 'Medica Bio', 'kitchen': 5, 'menutype': 60, 'kitcheninfoid': 2346 },
-            {'restaurant': 'Medica Arvo', 'kitchen': 27, 'menutype': 60, 'kitcheninfoid': 2348 }
-        ]
-        
-        self._restaurants_tamk = [
-            {'restaurant': 'Dot (Ziberia)', 'kitchen': 15, 'menutype': 60, 'kitcheninfoid': 2324 }
-        ]
-        
-        self._restaurants_takk = [
-            {'restaurant': 'Nasta', 'kitchen': 22, 'menutype': 60, 'kitcheninfoid': 2328 },
-            {'restaurant': 'Fusion Kitchen & Panini Meal', 'kitchen': 22, 'menutype': 3, 'kitcheninfoid': 2328 },
-            {'restaurant': 'Salad & Soup', 'kitchen': 22, 'menutype': 23, 'kitcheninfoid': 2328 },
-           #{'restaurant': 'Café Mesta', 'kitchen': , 'menutype': , 'kitcheninfoid': }
-        ]
-        
         # Logger
         logging.basicConfig(format='%(asctime)s %(levelname)s:%(message)s', 
                             level=logging.INFO)
@@ -121,14 +123,18 @@ class TTYfood(object):
         
             # initializing dicts
             food = {}
-            curweek = self._week+w
+            print self._week, w
+            if self._week == 52 and w == 1:
+                curweek = 1
+                print 'lol'
+            else:
+                curweek = self._week+w
             self._info[curweek] = {}
             self._logger.info(' Starting week '+str(curweek)+'...')
             
             for i in range(0,6): # weekdays
                 food[i] = {}
-                
-                for restaurant in self._restaurants:
+                for restaurant in self._restaurants[self._location]:
                 
                     restr = {}
                     fetch_parameters = { # setting the GET params
@@ -139,6 +145,9 @@ class TTYfood(object):
                         'kitcheninfoid': restaurant['kitcheninfoid'],
                         'lang': self._language
                     }
+                    error = False
+                    decoded_data_info = ''
+                    pvm = ''
                     try:
                     
                         fetched_data = self._opener.open('http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx/GetMenuByWeekday?KitchenId=%(kitchen)s&MenuTypeId=%(menutype)s&Week=%(week)d&Weekday=%(weekday)d&lang=\'%(lang)s\'&format=json' % fetch_parameters)
@@ -155,9 +164,10 @@ class TTYfood(object):
                             decoded_data_info = fetched_data_info.read().decode('utf-8')
                                                 
                     except: # if there's some problem when fetching the data, this raises the error flag
-                        food['error'] = True
-                        self.logger.info(' Error in fetching.')
-                        return
+                        food['error'] = 'True'
+                        self._logger.info(' Error in fetching.')
+                        error = True
+                    
                     try:
                         pvm = loaded_json['MealOptions'][0]['MenuDate'] # get the date
                         
@@ -177,14 +187,16 @@ class TTYfood(object):
                     food[i][restaurant['restaurant']] = restr # saving restaurant specific food to dict
                     food[i]['date'] = pvm # saving date to dict
                     
-                    if i == 0: # if "monday", parse and save the opening hours
+                    if i == 0 and decoded_data_info != '': # if "monday", parse and save the opening hours
                     
                         json_info = json.loads(decoded_data_info.strip()[1:-2])
                         s = self._parse_opening_hours(str(json_info['d']))
                         food[restaurant['restaurant']+'_open'] = s
                         
-                self._logger.info(' Fetched day '+pvm+' foods successfully.')
-            self._info[self._week+w] = food # save the restaurant dict to the week-key at the end of the week
+                if error == False:        
+                    self._logger.info(' Fetched day '+pvm+' foods successfully.')
+
+            self._info[curweek] = food # save the restaurant dict to the week-key at the end of the week
         self._end_time = time.time()
         self._logger.info(' Language was '+self._language+'.')
         self._logger.info(' Fetch time: '+instance._get_execution_time()+'.')
@@ -196,16 +208,16 @@ class TTYfood(object):
         return "%.2f" % (self._end_time-self._start_time, )
         
 # function for writing the dict into an JSON file.        
-def write_json(language, food_dict):
+def write_json(language, location, food_dict):
     """Writes JSON to file"""
         
     # sorts keys and adds indent for more pretty output
     data = json.dumps(food_dict, sort_keys=True, indent=4)
         
     if lang == 'fi':
-        f = open('ruoka.json', 'w+') # overwrite old
+        f = open('ruoka_'+str(location)+'.json', 'w+') # overwrite old
     else:
-        f = open('food.json', 'w+') # overwrite old
+        f = open('food_'+str(location)+'.json', 'w+') # overwrite old
             
     f.write(data + "\n")        # save to file
     f.close()
@@ -213,6 +225,7 @@ def write_json(language, food_dict):
 
 # usage example
 # accepts "fi" and "en" as parameters
+
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         lang = sys.argv[1]
@@ -220,7 +233,7 @@ if __name__ == "__main__":
             exit('Parameter error. Parameter was: '+lang+' Accepted values: none, fi, en')
     else:    
         lang = 'fi'
-        
-    instance = TTYfood(lang) # inits object
-    food = instance.fetch_food() # fetches the stuff
-    write_json(lang, food) # writes json
+    for location in range(0,5):
+        instance = TTYfood(location, lang) # inits object
+        food = instance.fetch_food() # fetches the stuff
+        write_json(lang, location, food) # writes json
