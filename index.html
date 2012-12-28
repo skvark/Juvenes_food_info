@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Juvenes food data : Offers food info from Tampere region Juvenes restaurants in JSON." />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Juvenes food data</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/skvark/TUT_Juvenes_food">View on GitHub</a>
+
+          <h1 id="project_title">Juvenes food data</h1>
+          <h2 id="project_tagline">Offers food info from Tampere region Juvenes restaurants in JSON.</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/skvark/TUT_Juvenes_food/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/skvark/TUT_Juvenes_food/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>Juvenes food info in JSON</h1>
+
+<p>This project's main goal is to offer an easy way to get food data from (Juvenes) restaurants located in different campuses around Tampere.</p>
+
+<p>Yeah, I built this API on top of an existing API hosted by <a href="http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx">Juvenes</a>. Why? Because that API is just... too messy, incoherent, unreadable and very poorly documented.</p>
+
+<p>It took many painful hours to dig all the necessary id's for the restaurants and cafes from Juvenes website source code. Note some things:</p>
+
+<ul>
+<li>If it's week 52, the Juvenes API won't print next years week 1 foods (don't know if the problem lies in the API itself or in people updating it)</li>
+<li>The openinfoid's in the Juvenes API must be placed in kitcheninfoid-method.. don't ask why.</li>
+<li>Juvenes website tries to fetch week 53 when one presses next week and it's week 52 , but obviously that doesn't work :)</li>
+</ul><p>This API will be hosted by on my server, I'll publish it later... Probably just serves the static files by lang-parameter and campus-parameter. </p>
+
+<p>I'm currently building an HTML5 web application on top of this. </p>
+
+<h2>Changelog</h2>
+
+<ul>
+<li>27.12.2012 Added preliminary support for TAY, TAMK and TAKK campuses</li>
+<li>28.12.2012 Fixed week 52 -&gt; 53 problems, modified logging, added fatal_error flag and put error-flag for every week, added very early support for TAY, TAMK and TAKK, changed file naming</li>
+</ul><h2>Usage</h2>
+
+<p>Script creates by default <strong><em>ruoka_[campus_name].json</em></strong> or <strong><em>food_[campus_name].json</em></strong> file, depending on language.</p>
+
+<p>Examples can be found from the repository.</p>
+
+<p>To run:
+<code>python json_food_TUT.py &lt;language&gt;</code></p>
+
+<p>Language: fi or en, defaults to fi if no parameter given</p>
+
+<p>I recommend to use cron for scheluded runs.</p>
+
+<h2>License</h2>
+
+<p>Copyright (C) 2012 Olli-Pekka Heinisuo</p>
+
+<p>Since the code is open source, feel free to contribute or use it for your own purposes as long as licence conditions are met.</p>
+
+<p>Distributed under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache-2.0 license</a></p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Juvenes food data maintained by <a href="https://github.com/skvark">skvark</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
