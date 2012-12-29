@@ -1,0 +1,130 @@
+{
+    "1": {
+        "0": {
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Vegetable lasagne, Root vegetables with coriander", 
+                "LOUNAS1": "Chili flavoured frankfurters, Mustard relish, Creamy potatoes", 
+                "LOUNAS2": "Shrimp stew"
+            }, 
+            "Zip": {}, 
+            "date": "31.12.2012"
+        }, 
+        "1": {
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Zip": {}, 
+            "date": "1.1.2013"
+        }, 
+        "2": {
+            "Edison": {}, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Finger food platter", 
+                "FUSION KASVIS": "Vegetarian bagel, French fries", 
+                "FUSION PIHVI": "Pork steak with bearnaise sauce", 
+                "FUSION PIHVI 2": "Grilled steak with bearnaise sauce"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Falafel vegetable balls, Yoghurt sauce with pesto, Whole grains rice, Root vegetables with coriander", 
+                "LOUNAS1": "Lemon flavoured fish, Yoghurt sauce with pesto", 
+                "LOUNAS2": "Minced meat lasagnette"
+            }, 
+            "Zip": {}, 
+            "date": "2.1.2013"
+        }, 
+        "3": {
+            "Edison": {}, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Finger food platter", 
+                "FUSION KASVIS": "Vegetarian bagel, French fries", 
+                "FUSION PIHVI": "Pork steak with bearnaise sauce", 
+                "FUSION PIHVI 2": "Grilled steak with bearnaise sauce"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Vegetable and bean gratin, Wok vegetables", 
+                "LOUNAS1": "Breast of chicken, Devil's sauce, Jasmin rice", 
+                "LOUNAS2": "Beef in red wine sauce, Jasmin rice"
+            }, 
+            "Zip": {}, 
+            "date": "3.1.2013"
+        }, 
+        "4": {
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Beet root and blue cheese casserole, Wok vegetables", 
+                "LOUNAS1": "Ground meat patty, Creamy BBQ-sauce", 
+                "LOUNAS2": "Leg of chicken, Creamy BBQ-sauce"
+            }, 
+            "Zip": {}, 
+            "date": "4.1.2013"
+        }, 
+        "5": {
+            "Edison": {}, 
+            "date": "5.1.2013"
+        }, 
+        "Edison_open": "ma-to 10:30-15:00 pe 10:30-14:30 la 11:00-14:00  Tenttiviikot 10.-23.12.12 Edison suljettu 22.12.12-6.1.13", 
+        "Fusion Kitchen_open": "ma-pe klo 10.30-14.30 Suljettu 24.12.2012-1.1.2013 2.-4.1.2013 klo 10.30-14.00", 
+        "Newton_open": "ma-to klo 10.30-16.00 pe 10.30-15.00 31.12 klo 9-13.00 2.-4.1.2013 klo 10.30-15.00", 
+        "Zip_open": "Ma-to 10.30-15.00 Pe 10.30-14.30 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "error": "Some data could not be fetched."
+    }, 
+    "52": {
+        "0": {
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Zip": {}, 
+            "date": "24.12.2012"
+        }, 
+        "1": {
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Zip": {}, 
+            "date": "25.12.2012"
+        }, 
+        "2": {
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Zip": {}, 
+            "date": "26.12.2012"
+        }, 
+        "3": {
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Beetroot patties, Light sour cream sauce with sun-dried tomatoes, Roasted vegetables with pesto", 
+                "LOUNAS1": "Salmon, Light sour cream sauce with sun-dried tomatoes", 
+                "LOUNAS2": "Chicken and pasta casserole"
+            }, 
+            "Zip": {}, 
+            "date": "27.12.2012"
+        }, 
+        "4": {
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Ratatouille with white beans, Whole grain barley, Roasted vegetables with pesto", 
+                "LOUNAS1": "Breaded chicken steaks, Barbeque sauce, Whole grain barley", 
+                "LOUNAS2": "Sauce bolognese, Fiber pasta"
+            }, 
+            "Zip": {}, 
+            "date": "28.12.2012"
+        }, 
+        "5": {
+            "Edison": {}, 
+            "date": "29.12.2012"
+        }, 
+        "Edison_open": "ma-to 10:30-15:00 pe 10:30-14:30 la 11:00-14:00  Tenttiviikot 10.-23.12.12 Edison suljettu 22.12.12-6.1.13", 
+        "Fusion Kitchen_open": "ma-pe klo 10.30-14.30 Suljettu 24.12.2012-1.1.2013 2.-4.1.2013 klo 10.30-14.00", 
+        "Newton_open": "ma-to klo 10.30-16.00 pe 10.30-15.00 31.12 klo 9-13.00 2.-4.1.2013 klo 10.30-15.00", 
+        "Zip_open": "Ma-to 10.30-15.00 Pe 10.30-14.30 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1356801624.621
+}
