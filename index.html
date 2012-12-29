@@ -43,7 +43,7 @@
 <li>If it's week 52, the Juvenes API won't print next years week 1 foods (don't know if the problem lies in the API itself or in people updating it)</li>
 <li>The openinfoid's in the Juvenes API must be placed in kitcheninfoid-method.. don't ask why.</li>
 <li>Juvenes website tries to fetch week 53 when one presses next week and it's week 52 , but obviously that doesn't work :)</li>
-</ul><p>This API will be hosted by on my server, I'll publish it later... Probably just serves the static files by lang-parameter and campus-parameter. </p>
+</ul><p>This API will be hosted by on my server, I'll publish it later. Probably just serves the static files by lang-parameter and campus-parameter. </p>
 
 <p>I'm currently building an HTML5 web application on top of this. </p>
 
@@ -52,6 +52,7 @@
 <ul>
 <li>27.12.2012 Added preliminary support for TAY, TAMK and TAKK campuses</li>
 <li>28.12.2012 Fixed week 52 -&gt; 53 problems, modified logging, added fatal_error flag and put error-flag for every week, added very early support for TAY, TAMK and TAKK, changed file naming</li>
+<li>29.12.2012  Major refactoring, renamed class, sliced to smaller methods, enhanced error handling, optimized speed and removed unnecessary looping, added new folders and fixed several bugs</li>
 </ul><h2>Usage</h2>
 
 <p>Script creates by default <strong><em>ruoka_[campus_name].json</em></strong> or <strong><em>food_[campus_name].json</em></strong> file, depending on language.</p>
@@ -64,6 +65,28 @@
 <p>Language: fi or en, defaults to fi if no parameter given</p>
 
 <p>I recommend to use cron for scheluded runs.</p>
+
+<h2>Documentation</h2>
+
+<p>Timestamp is in following format (unix timestamp, integer) and tells the time when file was updated:</p>
+
+<ul>
+<li><code>"update_timestamp": 1349082412.619589</code></li>
+</ul><p>The error flag (string) in every week is probably never ok, because some restaurant is always closed and in that case Juvenes API returns internal server error -headers:</p>
+
+<ul>
+<li>
+<code>"error": "False"</code> everything ok, <code>"error": "Some message..."</code>
+</li>
+</ul><p>On every day there's date in following format (string):</p>
+
+<ul>
+<li><code>"date": "24.9.2012"</code></li>
+</ul><p>In case of misconfiguration or some other fatal error the class returns only <code>update_timestamp</code> and <code>fatal_error</code> (string, False or True):</p>
+
+<ul>
+<li><code>"fatal_error": "False"</code></li>
+</ul><p>More to come.</p>
 
 <h2>License</h2>
 
