@@ -27,10 +27,10 @@ import time
 # See documentation for more specific info
 
 # restaurant names, lookup dict
-restaurantNames = {0:'TUT', 1:'TAY', 2:'TAY Kauppi', 3:'TAMK', 4:'TAKK'}
+restaurantNames = {0:'TUT', 1:'TAY', 2:'TAYKauppi', 3:'TAMK', 4:'TAKK'}
 
 class JuvenesFood(object):
-    """Creates nice JSON files about food and other general info of TTY Juvenes restaurants"""
+    """Creates nice dicts about food and other general info of TTY Juvenes restaurants"""
     
     def __init__(self, location, restNames, lang = 'fi'):
     
@@ -75,38 +75,43 @@ class JuvenesFood(object):
 
         self._restaurants = [
             # TUT
-            # More stuff (cafes) will be added later...
             [
                 {'restaurant': 'Newton', 'kitchen': 6, 'menutype': 60, 'kitcheninfoid': 2352 },
                 {'restaurant': 'Zip', 'kitchen': 12, 'menutype': 60, 'kitcheninfoid': 2360 },
                 {'restaurant': 'Edison', 'kitchen': 2, 'menutype': 60, 'kitcheninfoid': 2364 },
-                {'restaurant': 'Pastabaari', 'kitchen': 26, 'menutype': 11, 'kitcheninfoid': 2368 },
-                {'restaurant': 'Fast Voltti', 'kitchen': 25, 'menutype': 62, 'kitcheninfoid': 2366 },
-                {'restaurant': 'Fusion Kitchen', 'kitchen': 6, 'menutype': 3, 'kitcheninfoid': 2354 }
+                {'restaurant': 'Café & Pastabaari Voltti', 'kitchen': 20017, 'menutype': 11, 'kitcheninfoid': 2368 },
+                {'restaurant': 'Café & FastVoltti', 'kitchen': 20015, 'menutype': 62, 'kitcheninfoid': 2366 },
+                {'restaurant': 'Fusion Kitchen', 'kitchen': 6, 'menutype': 3, 'kitcheninfoid': 2354 },
+                {'restaurant': 'Café Rom', 'kitchen': 120024, 'menutype': 58, 'kitcheninfoid': 2362 },
+                {'restaurant': 'Café Joule', 'kitchen': 60020, 'menutype': 6, 'kitcheninfoid': 2358 },
+                {'restaurant': 'Café Motivaattori', 'kitchen': 60022, 'menutype': 58, 'kitcheninfoid': 2356 }
             ],
             #TAY
-            # More stuff (cafes) will be added later...
             [
-                {'restaurant': 'Yliopiston ravintola', 'kitchen': 13, 'menutype': 60, 'kitcheninfoid': 2332 },
+                {'restaurant': 'Yliopiston ravintola', 'kitchen': 13, 'menutype': 60, 'kitcheninfoid': 2338 },
                 {'restaurant': 'Intro', 'kitchen': 13, 'menutype': 2, 'kitcheninfoid': 2338 },
-                {'restaurant': 'Salaattibaari', 'kitchen': 13, 'menutype': 5, 'kitcheninfoid': 2336 },
-                {'restaurant': 'Fusion Kitchen', 'kitchen': 13, 'menutype': 3, 'kitcheninfoid': 2334 }
+                {'restaurant': 'Salaattibaari', 'kitchen': 13, 'menutype': 5, 'kitcheninfoid': 2338 },
+                {'restaurant': 'Fusion Kitchen', 'kitchen': 13, 'menutype': 3, 'kitcheninfoid': 2338 },
+                {'restaurant': 'Café & LunchPinni', 'kitchen': 130016, 'menutype': 60, 'kitcheninfoid': 2340 },
+                {'restaurant': 'Alakuppila', 'kitchen': 13, 'menutype': 5, 'kitcheninfoid': 2342 }
             ],
             # TAY Kauppi
             [
-                {'restaurant': 'Medica Bio', 'kitchen': 5, 'menutype': 60, 'kitcheninfoid': 2346 },
-                {'restaurant': 'Medica Arvo', 'kitchen': 27, 'menutype': 60, 'kitcheninfoid': 2348 }
+                {'restaurant': 'Fusion Kitchen', 'kitchen': 27, 'menutype': 3, 'kitcheninfoid': 2350 },
+                {'restaurant': 'Medica Arvo', 'kitchen': 50026, 'menutype': 60, 'kitcheninfoid': 2348 },
+                {'restaurant': 'Medica?', 'kitchen': 5, 'menutype': 60, 'kitcheninfoid': 0 }
             ],
             # TAMK
             [
-                {'restaurant': 'Dot (Ziberia)', 'kitchen': 15, 'menutype': 60, 'kitcheninfoid': 2324 }
+                {'restaurant': 'Dot', 'kitchen': 110027, 'menutype': 60, 'kitcheninfoid': 2324 },
+                {'restaurant': 'Ziberia', 'kitchen': 11, 'menutype': 60, 'kitcheninfoid': 2320 },
+                {'restaurant': 'Grill & Parila & Combo', 'kitchen': 11, 'menutype': 7, 'kitcheninfoid': 2322 }
             ],
             # TAKK
             [
                 {'restaurant': 'Nasta', 'kitchen': 22, 'menutype': 60, 'kitcheninfoid': 2328 },
                 {'restaurant': 'Fusion Kitchen & Panini Meal', 'kitchen': 22, 'menutype': 3, 'kitcheninfoid': 2328 },
-                {'restaurant': 'Salad & Soup', 'kitchen': 22, 'menutype': 23, 'kitcheninfoid': 2328 },
-               #{'restaurant': 'Café Mesta', 'kitchen': , 'menutype': , 'kitcheninfoid': }
+                {'restaurant': 'Salad & Soup, Café Mesta?', 'kitchen': 220021, 'menutype': 23, 'kitcheninfoid': 2328 }
             ]
         ]
         
@@ -251,7 +256,7 @@ class JuvenesFood(object):
         
 # Function for writing the dict into an JSON file.        
 def write_json(language, location, food_dict, restNames):
-    """Writes JSON to file"""
+    """Writes dict in JSON to file"""
      
     # sorts keys and adds indent for more pretty output
     data = json.dumps(food_dict, sort_keys=True, indent=4)
