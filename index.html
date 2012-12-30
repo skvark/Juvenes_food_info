@@ -35,15 +35,11 @@
 
 <p>This project's main goal is to offer an easy way to get food data from (Juvenes) restaurants located in different campuses around Tampere.</p>
 
-<p>Yeah, I built this API on top of an existing API hosted by <a href="http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx">Juvenes</a>. Why? Because that API is just... too messy, incoherent, unreadable and very poorly documented.</p>
+<p>Yeah, I built this API on top of an existing API hosted by <a href="http://www.juvenes.fi/DesktopModules/Talents.LunchMenu/LunchMenuServices.asmx">Juvenes</a>. Why? Because that API is just... too messy, incoherent, unreadable (yes, it would be nice if the machine readable data could be formatted so that humans could be able to read it) and very poorly documented.</p>
 
-<p>It took many painful hours to dig all the necessary id's for the restaurants and cafes from Juvenes website source code. Note some things:</p>
+<p>It took many painful hours to dig all the necessary id's for the restaurants and cafes from Juvenes website/API. There's a method to get all the id's in the API, but that's useless because it does not tell the location (campus) of the restaurants (neither does any of the other methods, street address doesn't help much) so I had to do everything manually. The openinfoid's in the Juvenes API must be placed in kitcheninfoid-method.. don't ask why, that's just something I had to figure out myself because of the poor documentation.</p>
 
-<ul>
-<li>If it's week 52, the Juvenes API won't print next years week 1 foods (don't know if the problem lies in the API itself or in people updating it)</li>
-<li>The openinfoid's in the Juvenes API must be placed in kitcheninfoid-method.. don't ask why.</li>
-<li>Juvenes website tries to fetch week 53 when one presses next week and it's week 52 , but obviously that doesn't work :)</li>
-</ul><p>This API will be hosted by on my server, I'll publish it later. Probably just serves the static files by lang-parameter and campus-parameter. </p>
+<p>This API will be hosted by on my server, I'll publish it later. Probably just serves the static files by lang-parameter and campus-parameter. </p>
 
 <p>I'm currently building an HTML5 web application on top of this. </p>
 
