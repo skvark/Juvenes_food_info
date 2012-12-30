@@ -1,0 +1,178 @@
+{
+    "1": {
+        "0": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Kebabliha [L,G,M,VS,PAPR.]", 
+                "LOUNAS 2 HR": "Jauhelihamureke [L] [M], Kermakastike", 
+                "LOUNAS KASVIS HR": "Kasvis-papukroketit [G] [Ve], Tomaattikastike, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Makkarakeitto"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Kebablihasuikale [L,G,M,VS,PAPR]", 
+                "LOUNAS1": "Jauheliha - valkosipuliburger, Kuorelliset ranskanperunat", 
+                "LOUNAS2": "Pippuripihvi", 
+                "LOUNAS3": "Siikaa valkoviinikastikkeessa"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Kalkkunan fileepihvi [L] [M] [G], Tomaattikastike", 
+                "LOUNAS 2 HR": "Jauhelihamureke [L] [M], Kermakastike", 
+                "LOUNAS KASVIS HR": "Kasvis-papukroketit [G] [Ve], Tomaattikastike, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Makkarakeitto"
+            }, 
+            "date": "31.12.2012"
+        }, 
+        "1": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Kebabliha [L,G,M,VS,PAPR.]", 
+                "LOUNAS 2 HR": "Rukiiset silakkapihvit [L] [M], Chili-mangokermaviili", 
+                "LOUNAS KASVIS HR": "Tofu-kikhernepihvit, Chili-mangokermaviili, Uunipunajuuret", 
+                "LOUNAS KEITTO HR": "Toscanalainen kanakeitto"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Kebablihasuikale [L,G,M,VS,PAPR]", 
+                "LOUNAS1": "Jauheliha - valkosipuliburger, Kuorelliset ranskanperunat", 
+                "LOUNAS2": "Pippuripihvi", 
+                "LOUNAS3": "Siikaa valkoviinikastikkeessa"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "H\u00e4rk\u00e4fajitaspata", 
+                "LOUNAS 2 HR": "Rukiiset silakkapihvit, Chili-mangokermaviili", 
+                "LOUNAS KASVIS HR": "Tofu-kikhernepihvit, Chili-mangokermaviili, Uunipunajuuret", 
+                "LOUNAS KEITTO HR": "Toscanalainen kanakeitto"
+            }, 
+            "date": "1.1.2013"
+        }, 
+        "2": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Kebabliha [L,G,M,VS,PAPR.]", 
+                "LOUNAS 2 HR": "Tulinen uunimakkara, Perunamuusi", 
+                "LOUNAS KASVIS HR": "Mausteinen papu-kasvispata, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Juuressosekeitto"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Kebablihasuikale [L,G,M,VS,PAPR]", 
+                "LOUNAS1": "Jauheliha - valkosipuliburger, Kuorelliset ranskanperunat", 
+                "LOUNAS2": "Pippuripihvi", 
+                "LOUNAS3": "Siikaa valkoviinikastikkeessa"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Kukkoa punaviiniss\u00e4", 
+                "LOUNAS 2 HR": "Tulinen uunimakkara, Perunamuusi", 
+                "LOUNAS KASVIS HR": "Mausteinen papu-kasvispata, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Juuressosekeitto"
+            }, 
+            "date": "2.1.2013"
+        }, 
+        "3": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Kalkkuna [L] [M] [G], Limemarinoidut katkaravut", 
+                "LOUNAS 2 HR": "Bbq - broileripata", 
+                "LOUNAS KASVIS HR": "Linssi-kasvislasagnette, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Mets\u00e4sienikeitto"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Kalkkuna [L] [M] [G], Limemarinoidut katkaravut", 
+                "LOUNAS1": "Jauheliha - valkosipuliburger, Kuorelliset ranskanperunat", 
+                "LOUNAS2": "Pippuripihvi", 
+                "LOUNAS3": "Siikaa valkoviinikastikkeessa"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Porsaanpihvi [L] [M] [G], Bearnaisekastike", 
+                "LOUNAS 2 HR": "Bbq - broileripata", 
+                "LOUNAS KASVIS HR": "Linssi-kasvislasagnette, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Mets\u00e4sienikeitto"
+            }, 
+            "date": "3.1.2013"
+        }, 
+        "4": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Kalkkuna [L] [M] [G], Limemarinoidut katkaravut", 
+                "LOUNAS 2 HR": "Riistapy\u00f6ryk\u00e4t [L] [M], Tumma herukkakastike", 
+                "LOUNAS KASVIS HR": "Kasvisquesadilla, Lime-kermaviilikastike, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Bataattisosekeitto"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Kalkkuna [L] [M] [G], Limemarinoidut katkaravut", 
+                "LOUNAS1": "Jauheliha - valkosipuliburger, Kuorelliset ranskanperunat", 
+                "LOUNAS2": "Pippuripihvi", 
+                "LOUNAS3": "Siikaa valkoviinikastikkeessa"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Sitruunainen kalaleike, Lime-kermaviilikastike", 
+                "LOUNAS 2 HR": "Riistapy\u00f6ryk\u00e4t, Tumma herukkakastike", 
+                "LOUNAS KASVIS HR": "Kasvisquesadilla, Lime-kermaviilikastike, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Bataattisosekeitto"
+            }, 
+            "date": "4.1.2013"
+        }, 
+        "5": {}, 
+        "Dot_open": "Palvelemme opiskelija-asiakkaitamme arkisin klo 11-14 ravintola Juvenes Ravintola Ziberian tiloissa, Tervetuloa!", 
+        "Grill & Parila & Combo_open": "Ma-Pe 11.00-14.00", 
+        "Ziberia_open": "Palvelemme arkisin klo 11.00-14.00 Buffetlounas arkisin klo 11.00-14.00 Iltaisin ja viikonloppuisin palvelemme tilauksesta.", 
+        "error": "Some data could not be fetched."
+    }, 
+    "52": {
+        "0": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Aurajuusto [L] [G], Tonnikala", 
+                "LOUNAS 2 HR": "Mustamakkara [L] [M], Valkokastike, Puolukkahillo", 
+                "LOUNAS KASVIS HR": "Fetagratinoidut kasvikset, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Kanttarellikeitto"
+            }, 
+            "Grill & Parila & Combo": {}, 
+            "Ziberia": {}, 
+            "date": "24.12.2012"
+        }, 
+        "1": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Aurajuusto [L] [G], Tonnikala", 
+                "LOUNAS 2 HR": "Broileripataa kasviksilla", 
+                "LOUNAS KASVIS HR": "Tofu-pastapaistos, Korianterijuureksia", 
+                "LOUNAS KEITTO HR": "Porkkana-rakuunakeitto"
+            }, 
+            "Grill & Parila & Combo": {}, 
+            "Ziberia": {}, 
+            "date": "25.12.2012"
+        }, 
+        "2": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Aurajuusto [L] [G], Tonnikala", 
+                "LOUNAS 2 HR": "Kasvist\u00e4ytteinen kalapihvi, Curry-jalapenokastike", 
+                "LOUNAS KASVIS HR": "Tacomausteinen soija-kasvispata, Yrttiriisi, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Siskonmakkarakeitto"
+            }, 
+            "Grill & Parila & Combo": {}, 
+            "Ziberia": {}, 
+            "date": "26.12.2012"
+        }, 
+        "3": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Polarjuustokuutio, Kinkkusuikale [L] [M] [G]", 
+                "LOUNAS 2 HR": "Broilerikiusaus", 
+                "LOUNAS KASVIS HR": "Juuresr\u00f6stit [L] [M], Smetana-yrttikastike, Mausteinen bulgurvehn\u00e4, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Borssikeitto, Yrttismetana"
+            }, 
+            "Grill & Parila & Combo": {}, 
+            "Ziberia": {}, 
+            "date": "27.12.2012"
+        }, 
+        "4": {
+            "Dot": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Polarjuustokuutio, Kinkkusuikale [L] [M] [G]", 
+                "LOUNAS 2 HR": "Meetwursti- ananaspizza", 
+                "LOUNAS KASVIS HR": "Soija-kasvislasagnette, L\u00e4mpim\u00e4t uunikasvikset", 
+                "LOUNAS KEITTO HR": "Katkarapu-kookoskeitto"
+            }, 
+            "Grill & Parila & Combo": {}, 
+            "Ziberia": {}, 
+            "date": "28.12.2012"
+        }, 
+        "5": {}, 
+        "Dot_open": "Palvelemme opiskelija-asiakkaitamme arkisin klo 11-14 ravintola Juvenes Ravintola Ziberian tiloissa, Tervetuloa!", 
+        "Grill & Parila & Combo_open": "Ma-Pe 11.00-14.00", 
+        "Ziberia_open": "Palvelemme arkisin klo 11.00-14.00 Buffetlounas arkisin klo 11.00-14.00 Iltaisin ja viikonloppuisin palvelemme tilauksesta.", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1356882146.373
+}

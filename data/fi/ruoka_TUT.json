@@ -1,0 +1,300 @@
+{
+    "1": {
+        "0": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Aamiainen", 
+                "FAST MEAL": "Broilerinfileet\u00e4 ja wokattuja kasviksia", 
+                "FAST PIZZA": "Pepperonipizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Minilihapulla [L] [M] [G]"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Mets\u00e4sieni - juureskastike, Tortellini", 
+                "LOUNAS1": "Kebab-valkosipulikastike, Tortellini", 
+                "LOUNAS2": "Tonnikala-savuchilikastike, Tortellini"
+            }, 
+            "Caf\u00e9 Joule": {}, 
+            "Caf\u00e9 Motivaattori": {}, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Kasvislasagnette, Korianterijuurekset", 
+                "LOUNAS1": "Chilinakit [L] [M] [G], Sinappirelish, Kerma-viipaleperunat", 
+                "LOUNAS2": "Katkarapukasari"
+            }, 
+            "Zip": {}, 
+            "date": "31.12.2012"
+        }, 
+        "1": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Aamiainen", 
+                "FAST MEAL": "Broilerinfileet\u00e4 ja wokattuja kasviksia", 
+                "FAST PIZZA": "Pepperonipizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Minilihapulla [L] [M] [G]"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Mets\u00e4sieni - juureskastike, Tortellini", 
+                "LOUNAS1": "Kebab-valkosipulikastike, Tortellini", 
+                "LOUNAS2": "Tonnikala-savuchilikastike, Tortellini"
+            }, 
+            "Caf\u00e9 Joule": {}, 
+            "Caf\u00e9 Motivaattori": {}, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Zip": {}, 
+            "date": "1.1.2013"
+        }, 
+        "2": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Aamiainen", 
+                "FAST MEAL": "Meetvurstit\u00e4ytteinen parilaleip\u00e4", 
+                "FAST PIZZA": "Tropicanapizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Fetajuusto [VL,G], Minilihapulla [L] [M] [G]"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Soijapapu-tuorejuustokastike, Pasta", 
+                "LOUNAS1": "Kinkku-maissikastike, Pasta", 
+                "LOUNAS2": "Broileri-papukastike, Pasta"
+            }, 
+            "Caf\u00e9 Joule": {}, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Broilerin paistisuikale, Cheddarjuusto", 
+                "PANINI": "Paninit, Panini broileri, Panini kinkku, Saatavana panini kasvis vegaani"
+            }, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Finger food", 
+                "FUSION KASVIS": "Kasvisbagel, Ranskanperunat", 
+                "FUSION PIHVI": "Porsaanpihvi ja bearnaisekastike", 
+                "FUSION PIHVI 2": "Naudanpihvi ja bearnaisekastike"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Falafel kasvispy\u00f6ryk\u00e4t [Ve], Jogurtti-pestokastike, T\u00e4ysjyv\u00e4riisi, Korianterijuurekset", 
+                "LOUNAS1": "Sitruunaiset kalaleikkeet [L] [M], Jogurtti-pestokastike", 
+                "LOUNAS2": "Jauhelihalasagnette"
+            }, 
+            "Zip": {}, 
+            "date": "2.1.2013"
+        }, 
+        "3": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Aamiainen", 
+                "FAST MEAL": "Meetvurstit\u00e4ytteinen parilaleip\u00e4", 
+                "FAST PIZZA": "Tropicanapizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, L\u00e4mminsavulohi [L] [M] [G], Aurajuusto [L] [G]"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Soijapapu-tuorejuustokastike, Pasta", 
+                "LOUNAS1": "Kinkku-maissikastike, Pasta", 
+                "LOUNAS2": "Broileri-papukastike, Pasta"
+            }, 
+            "Caf\u00e9 Joule": {}, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Meetvurstisuikale, Aurajuusto [L] [G]", 
+                "PANINI": "Paninit, Panini kinkku, Panini broileri, Saatavana panini kasvis vegaani"
+            }, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Finger food", 
+                "FUSION KASVIS": "Kasvisbagel, Ranskanperunat", 
+                "FUSION PIHVI": "Porsaanpihvi ja bearnaisekastike", 
+                "FUSION PIHVI 2": "Naudanpihvi ja bearnaisekastike"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Papu - tuorekasvisgratiini, Uuniwokkikasvikset", 
+                "LOUNAS1": "Broilerinfileet\u00e4  [L] [M] [G], Paholaisen kastike, Jasmiiniriisi", 
+                "LOUNAS2": "Punaviinih\u00e4rk\u00e4pata, Jasmiiniriisi"
+            }, 
+            "Zip": {}, 
+            "date": "3.1.2013"
+        }, 
+        "4": {
+            "Caf\u00e9 & FastVoltti": {
+                "FAST MEAL": "Siivet 10 kpl, Aurajuustodippi", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, L\u00e4mminsavulohi [L] [M] [G], Aurajuusto [L] [G]"
+            }, 
+            "Caf\u00e9 Joule": {}, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Meetvurstisuikale, Aurajuusto [L] [G]", 
+                "PANINI": "Paninit, Panini kinkku, Panini broileri, Saatavana Panini Kasvis vegaani"
+            }, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Punajuuri- aurajuustokiusaus, Uuniwokkikasvikset", 
+                "LOUNAS1": "Herkkupihvit, Kermainen BBQ - kastike", 
+                "LOUNAS2": "Broilerin koipireisi [L] [G] [M], Kermainen BBQ - kastike"
+            }, 
+            "Zip": {}, 
+            "date": "4.1.2013"
+        }, 
+        "5": {
+            "Edison": {}, 
+            "date": "5.1.2013"
+        }, 
+        "Caf\u00e9 & FastVoltti_open": "  Kahvila Voltti ma-to 8.30-18.30 pe 8.45-15.00 Kahvila avoinna tenttiviikoilla 10.-23.12.12 ma-to 8:30-18 pe 8:45-15 Suljettu 22.12.12-6.1.13 Aamiainen ma-to 8.30-10.00 Voltti & Fast ma-to 11.30-15.00 pe 11.30-14.00", 
+        "Caf\u00e9 & Pastabaari Voltti_open": "ma-to 15-18.30 Pastabaari avoinna tenttiviikoilla 10.-23.12.  ma-to 15-18 Suljettu 22.12.12-6.1.13", 
+        "Caf\u00e9 Joule_open": "Ma-To 9.00-21.30 Pe 9.00-20.00 Kelan ateriatuettu paniniateria klo 10.30-16.00  Kahvila suljettu 13.12.2012-6.1.2013", 
+        "Caf\u00e9 Motivaattori_open": "ma-to klo 8.45-17.00 pe 8.45-16.00 Suljettu 24.12.2012-1.1.2013 2.-4.1.2013 klo 8.45-15.30", 
+        "Caf\u00e9 Rom_open": "ma-to 8.30-17.30 pe 8.30-16.00 5.12.2012 avoinna klo. 8.30-14.00 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "Edison_open": "ma-to 10:30-15:00 pe 10:30-14:30 la 11:00-14:00  Tenttiviikot 10.-23.12.12 Edison suljettu 22.12.12-6.1.13", 
+        "Fusion Kitchen_open": "ma-pe klo 10.30-14.30 Suljettu 24.12.2012-1.1.2013 2.-4.1.2013 klo 10.30-14.00", 
+        "Newton_open": "ma-to klo 10.30-16.00 pe 10.30-15.00 31.12 klo 9-13.00 2.-4.1.2013 klo 10.30-15.00", 
+        "Zip_open": "Ma-to 10.30-15.00 Pe 10.30-14.30 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "error": "Some data could not be fetched."
+    }, 
+    "52": {
+        "0": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Aamiainen", 
+                "FAST MEAL": "Porsaan paahtokylke\u00e4 ja wokattuja kasviksia", 
+                "FAST PIZZA": "Tropicanapizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Tonnikala [L] [M] [G], Kinkkusuikale [L] [M] [G]"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Kukkakaali-aurajuustokastike, Tortellini", 
+                "LOUNAS1": "Bolognaisekastike, Tortellini", 
+                "LOUNAS2": "Kala-pestokastike, Tortellini"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Paninit, Panini kinkku, Panini tonnikala"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Meetvurstisuikale, Tonnikala [L] [M] [G]", 
+                "PANINI": "Paninit, Panini kinkku, Panini tonnikala, Saatavana panini kasvis vegaani"
+            }, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Zip": {}, 
+            "date": "24.12.2012"
+        }, 
+        "1": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Aamiainen", 
+                "FAST MEAL": "Porsaan paahtokylke\u00e4 ja wokattuja kasviksia", 
+                "FAST PIZZA": "Tropicanapizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoitua tofua, Tonnikala [L] [M] [G], Kinkkusuikale [L] [M] [G]"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Kukkakaali-aurajuustokastike, Tortellini", 
+                "LOUNAS1": "Bolognaisekastike, Tortellini", 
+                "LOUNAS2": "Kala-pestokastike, Tortellini"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Paninit, Panini kinkku, Panini broileri"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Meetvurstisuikale, Tonnikala [L] [M] [G]", 
+                "PANINI": "Paninit, Panini kinkku, Panini broileri, Saatavana panini kasvis vegaani"
+            }, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Zip": {}, 
+            "date": "25.12.2012"
+        }, 
+        "2": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Aamiainen", 
+                "FAST MEAL": "Burger Jauheliha- avocado", 
+                "FAST PIZZA": "Pepperonipizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, Tonnikala [L] [M] [G], Kinkkusuikale [L] [M] [G]"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Soija-kasviskastike, Pasta", 
+                "LOUNAS1": "Kalkkuna-bbq-kastike, Pasta", 
+                "LOUNAS2": "Minilihapulla-tuorejuustokastike, Pasta"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Paninit, Panini kinkku, Panini broileri"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoitua tofua, Meetvurstisuikale, Tonnikala [L] [M] [G]", 
+                "PANINI": "Paninit, Panini kinkku, Panini broileri, Saatavana panini kasvis vegaani"
+            }, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {}, 
+            "Zip": {}, 
+            "date": "26.12.2012"
+        }, 
+        "3": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Aamiainen", 
+                "FAST MEAL": "Burger Jauheliha- avocado", 
+                "FAST PIZZA": "Pepperonipizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, Broilerin paistisuikale, Polarjuustokuutio"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Soija-kasviskastike, Pasta", 
+                "LOUNAS1": "Kalkkuna-bbq-kastike, Pasta", 
+                "LOUNAS2": "Minilihapulla-tuorejuustokastike, Pasta"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Paninit, Panini kinkku, Panini  pepperoni"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Polarjuustokuutio, Limemarinoidut katkaravut", 
+                "PANINI": "Paninit, Panini kinkku, Panini  pepperoni, Saatavana panini kasvis vegaani"
+            }, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Punajuuripihvit [G] [Ve], Aurinkokuivattu tomaatti-kermaviilkastike, Paahdettuja pestokasviksia ja pinjansiemeni\u00e4", 
+                "LOUNAS1": "Uunilohta [M][G], Aurinkokuivattu tomaatti-kermaviilkastike", 
+                "LOUNAS2": "Broileri-pastapaistos"
+            }, 
+            "Zip": {}, 
+            "date": "27.12.2012"
+        }, 
+        "4": {
+            "Caf\u00e9 & FastVoltti": {
+                "FAST MEAL": "Siivet 10 kpl, Aurajuustodippi", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinoidut soijasuikaleet, Broilerin paistisuikale, Polarjuustokuutio"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Paninit, Panini kinkku, Panini pepperoni"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combosalaatit, Marinoidut soijasuikaleet, Polarjuustokuutio, Limemarinoidut katkaravut", 
+                "PANINI": "Paninit, Panini kinkku, Panini  pepperoni, Saatavana panini kasvis vegaani"
+            }, 
+            "Caf\u00e9 Rom": {}, 
+            "Edison": {}, 
+            "Fusion Kitchen": {}, 
+            "Newton": {
+                "LOUNAS Kasvis-": "J\u00e4ttipapu-ratatouille, T\u00e4ysjyv\u00e4ohra, Paahdettuja pestokasviksia ja pinjansiemeni\u00e4", 
+                "LOUNAS1": "Broilerpihvit [L] [M], BBQ-kastike, T\u00e4ysjyv\u00e4ohra", 
+                "LOUNAS2": "Bolognesekastike, Kuitupasta [L][M]"
+            }, 
+            "Zip": {}, 
+            "date": "28.12.2012"
+        }, 
+        "5": {
+            "Edison": {}, 
+            "date": "29.12.2012"
+        }, 
+        "Caf\u00e9 & FastVoltti_open": "  Kahvila Voltti ma-to 8.30-18.30 pe 8.45-15.00 Kahvila avoinna tenttiviikoilla 10.-23.12.12 ma-to 8:30-18 pe 8:45-15 Suljettu 22.12.12-6.1.13 Aamiainen ma-to 8.30-10.00 Voltti & Fast ma-to 11.30-15.00 pe 11.30-14.00", 
+        "Caf\u00e9 & Pastabaari Voltti_open": "ma-to 15-18.30 Pastabaari avoinna tenttiviikoilla 10.-23.12.  ma-to 15-18 Suljettu 22.12.12-6.1.13", 
+        "Caf\u00e9 Joule_open": "Ma-To 9.00-21.30 Pe 9.00-20.00 Kelan ateriatuettu paniniateria klo 10.30-16.00  Kahvila suljettu 13.12.2012-6.1.2013", 
+        "Caf\u00e9 Motivaattori_open": "ma-to klo 8.45-17.00 pe 8.45-16.00 Suljettu 24.12.2012-1.1.2013 2.-4.1.2013 klo 8.45-15.30", 
+        "Caf\u00e9 Rom_open": "ma-to 8.30-17.30 pe 8.30-16.00 5.12.2012 avoinna klo. 8.30-14.00 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "Edison_open": "ma-to 10:30-15:00 pe 10:30-14:30 la 11:00-14:00  Tenttiviikot 10.-23.12.12 Edison suljettu 22.12.12-6.1.13", 
+        "Fusion Kitchen_open": "ma-pe klo 10.30-14.30 Suljettu 24.12.2012-1.1.2013 2.-4.1.2013 klo 10.30-14.00", 
+        "Newton_open": "ma-to klo 10.30-16.00 pe 10.30-15.00 31.12 klo 9-13.00 2.-4.1.2013 klo 10.30-15.00", 
+        "Zip_open": "Ma-to 10.30-15.00 Pe 10.30-14.30 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1356882133.513
+}

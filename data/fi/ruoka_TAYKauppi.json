@@ -1,0 +1,124 @@
+{
+    "1": {
+        "0": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "J\u00e4ttijuustoburger, Ranskanperuna", 
+                "FUSION PIHVI": "L\u00e4mmin broilerisalaatti", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "31.12.2012"
+        }, 
+        "1": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "J\u00e4ttijuustoburger, Ranskanperuna", 
+                "FUSION PIHVI": "L\u00e4mmin broilerisalaatti", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "1.1.2013"
+        }, 
+        "2": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "J\u00e4ttijuustoburger, Ranskanperuna", 
+                "FUSION PIHVI": "L\u00e4mmin halloumisalaatti", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "2.1.2013"
+        }, 
+        "3": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Jauheliha-bbqburger, Ranskanperuna", 
+                "FUSION PIHVI": "L\u00e4mmin halloumisalaatti", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "3.1.2013"
+        }, 
+        "4": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Jauheliha-bbqburger, Ranskanperuna", 
+                "FUSION PIHVI": "L\u00e4mmin halloumisalaatti", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "4.1.2013"
+        }, 
+        "5": {
+            "Fusion Kitchen": {}, 
+            "date": ""
+        }, 
+        "Fusion Kitchen_open": "ma- to klo 9.00- 15.00 pe klo 9.00- 14.00 Lounas ma-pe klo 10.45- 13.30 Fusion Kitchen ma- to klo 10.45- 14.30 pe klo 10.45- 13.00", 
+        "Medica Arvo_open": "ma- to klo 9.00- 15.00 pe klo 9.00- 14.00 Lounas ma-pe klo 10.45- 13.30 Fusion Kitchen ma- to klo 10.45- 14.30 pe klo 10.45- 13.00", 
+        "Medica?_open": "", 
+        "error": "Some data could not be fetched."
+    }, 
+    "52": {
+        "0": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Broileri-mozzarellaburger, Ranskanperuna", 
+                "FUSION PIHVI": "Porsaanpihvi ja bearnaisekastike", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "24.12.2012"
+        }, 
+        "1": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Broileri-mozzarellaburger, Ranskanperuna", 
+                "FUSION PIHVI": "Porsaanpihvi ja bearnaisekastike", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "25.12.2012"
+        }, 
+        "2": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Broileri-mozzarellaburger, Ranskanperuna", 
+                "FUSION PIHVI": "Porsaanpihvi ja bearnaisekastike", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "26.12.2012"
+        }, 
+        "3": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Jauheliha-chiliburger, Ranskanperuna", 
+                "FUSION PIHVI": "Naudan lehtipihvi, maustevoi", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "27.12.2012"
+        }, 
+        "4": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Jauheliha-chiliburger, Ranskanperuna", 
+                "FUSION PIHVI": "Naudan lehtipihvi, maustevoi", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {}, 
+            "date": "28.12.2012"
+        }, 
+        "5": {
+            "Fusion Kitchen": {}, 
+            "date": ""
+        }, 
+        "Fusion Kitchen_open": "ma- to klo 9.00- 15.00 pe klo 9.00- 14.00 Lounas ma-pe klo 10.45- 13.30 Fusion Kitchen ma- to klo 10.45- 14.30 pe klo 10.45- 13.00", 
+        "Medica Arvo_open": "ma- to klo 9.00- 15.00 pe klo 9.00- 14.00 Lounas ma-pe klo 10.45- 13.30 Fusion Kitchen ma- to klo 10.45- 14.30 pe klo 10.45- 13.00", 
+        "Medica?_open": "", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1356882144.593
+}
