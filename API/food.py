@@ -48,6 +48,13 @@ class API(object):
 
     foodAPI.exposed = True
     
+    def params(self):
+        
+        s = ' | '.join(self._campuses)
+        return "Languages: fi, en<br />Locations: "+s+""
+    
+    params.exposed = True
+    
     def default(self):
         return "This is default page."
     
