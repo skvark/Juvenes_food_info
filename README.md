@@ -4,7 +4,7 @@ This project's main goal is to offer an easy way to get food data from (Juvenes)
 
 I'm currently building an HTML5 web application on top of this.
 
-See full [DOCUMENTATION](http://skvark.github.com/TUT_Juvenes_food/).
+See full [DOCUMENTATION](http://skvark.github.com/Juvenes_food_info/).
 
 ## License
 
