@@ -50,6 +50,7 @@
 <li>28.12.2012 Fixed week 52 -&gt; 53 problems, modified logging, added fatal_error flag and put error-flag for every week, added very early support for TAY, TAMK and TAKK, changed file naming</li>
 <li>29.12.2012  Major refactoring, renamed class, sliced to smaller methods, enhanced error handling, optimized speed and removed unnecessary looping, added new folders and fixed several bugs</li>
 <li>30.12.2012 Added new restaurants and cafes, fixed some ids, added new json examples, food API and CherryPy config</li>
+<li>7 - 8.1.2013 Renamed files and repository </li>
 </ul><h2>Usage</h2>
 
 <p>Script creates by default <strong><em>ruoka_[campus_name].json</em></strong> or <strong><em>food_[campus_name].json</em></strong> file, depending on language.</p>
@@ -83,7 +84,7 @@
 
 <ul>
 <li><code>"fatal_error": "False"</code></li>
-</ul><p>More to come.</p>
+</ul><p>The food keys in the JSON are somewhat cryptic, because the script copies them directly from Juvenes API. I'll propably add support for pricing if I found some easy way to parse the info from Juvenes website since the API does not provide data about pricing.</p>
 
 <h2>Deploying the CherryPy powered API through Apache2 proxy in Ubuntu 12.04 server</h2>
 
@@ -116,7 +117,7 @@ ProxyPassReverse /API http://your_local_ip:port/API
 
 <h2>License</h2>
 
-<p>Copyright (C) 2012 Olli-Pekka Heinisuo</p>
+<p>Copyright (C) 2012-2013 Olli-Pekka Heinisuo</p>
 
 <p>Since the code is open source, feel free to contribute or use it for your own purposes as long as licence conditions are met.</p>
 
