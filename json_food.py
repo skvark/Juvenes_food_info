@@ -9,6 +9,7 @@ import HTMLParser
 import logging
 import sys
 import time
+import os
 
 # Copyright 2012 Olli-Pekka Heinisuo
 #
@@ -262,7 +263,12 @@ def write_json(language, location, food_dict, restNames):
      
     # sorts keys and adds indent for more pretty output
     data = json.dumps(food_dict, sort_keys=True, indent=4)
-        
+
+    if not os.path.exists('data'):
+        os.makedirs('data/en')
+        os.makedirs('data/fi')
+        print 'Creating folders...'
+
     if lang == 'fi':
         f = open('data/'+language+'/ruoka_'+restNames[location]+'.json', 'w+') # overwrite old
     else:
