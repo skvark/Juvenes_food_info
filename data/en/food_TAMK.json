@@ -1,0 +1,228 @@
+{
+    "2": {
+        "0": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Frikadelles, Cheddar cheese", 
+                "LOUNAS 2 HR": "Finnish ham and potato casserole with cheese", 
+                "LOUNAS KASVIS HR": "Curry with chickpeas, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Fish soup flavored with saffron"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Marinated mini frikadelles, Cheddar cheese", 
+                "LOUNAS1": "Salmon salad", 
+                "LOUNAS2": "Pork leaf steak with seasoned butter", 
+                "LOUNAS3": "Grilled whitefish with creamy spinach"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Chicken steak, Quacamole light sour cream sauce", 
+                "LOUNAS 2 HR": "Finnish ham and potato casserole with cheese", 
+                "LOUNAS KASVIS HR": "Curry with chickpeas, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Fish soup flavored with saffron"
+            }, 
+            "date": "7.1.2013"
+        }, 
+        "1": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Frikadelles, Cheddar cheese", 
+                "LOUNAS 2 HR": "Chorizo sausage steak, Creamy mustard sauce", 
+                "LOUNAS KASVIS HR": "Caribbean style vegetarian patties, Whole grain barley, Yoghurt sauce with pesto, Wok vegetables", 
+                "LOUNAS KEITTO HR": "Carrot puree soup"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Marinated mini frikadelles, Cheddar cheese", 
+                "LOUNAS1": "Salmon salad", 
+                "LOUNAS2": "Pork leaf steak with seasoned butter", 
+                "LOUNAS3": "Grilled whitefish with creamy spinach"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Oven baked salmon with vegetables, Dill potatoes", 
+                "LOUNAS 2 HR": "Chorizo sausage steak, Creamy mustard sauce", 
+                "LOUNAS KASVIS HR": "Caribbean style vegetarian patties, Whole grain barley, Yoghurt sauce with pesto, Wok vegetables", 
+                "LOUNAS KEITTO HR": "Carrot puree soup"
+            }, 
+            "date": "8.1.2013"
+        }, 
+        "2": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Frikadelles, Cheddar cheese", 
+                "LOUNAS 2 HR": "Minced meat lasagnette", 
+                "LOUNAS KASVIS HR": "Eggplant patties, Light sour cream sauce with herbs, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Cream of spinach soup, Egg"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Marinated mini frikadelles, Cheddar cheese", 
+                "LOUNAS1": "Salmon salad", 
+                "LOUNAS2": "Pork leaf steak with seasoned butter", 
+                "LOUNAS3": "Grilled whitefish with creamy spinach"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Chicken in spicy tomato sauce", 
+                "LOUNAS 2 HR": "Minced meat lasagnette", 
+                "LOUNAS KASVIS HR": "Eggplant patties, Light sour cream sauce with herbs, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Cream of spinach soup, Egg"
+            }, 
+            "date": "9.1.2013"
+        }, 
+        "3": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Cheese cubes, Ham", 
+                "LOUNAS 2 HR": "Finnish potato hash", 
+                "LOUNAS KASVIS HR": "Soya and vegetable pastry, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Pea soup, Pancakes, Strawberry jam"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Cheese cubes, Ham", 
+                "LOUNAS1": "Chicken and bacon burger, French fries", 
+                "LOUNAS2": "Smoked salmon sauce with spinach ravioli", 
+                "LOUNAS3": "Grilled whitefish with creamy spinach"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Tomato and mozzarella gratinated fish, Parsley potatoes", 
+                "LOUNAS 2 HR": "Finnish potato hash", 
+                "LOUNAS KASVIS HR": "Soya and vegetable pastry, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Pea soup, Pancakes, Strawberry jam"
+            }, 
+            "date": "10.1.2013"
+        }, 
+        "4": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Cheese cubes, Ham", 
+                "LOUNAS 2 HR": "Breast of chicken, Light sour cream sauce with curry", 
+                "LOUNAS KASVIS HR": "Vegetarian spring rolls, Light sour cream sauce with curry, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Salmon solyanka"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Cheese cubes, Ham", 
+                "LOUNAS1": "Chicken and bacon burger, French fries", 
+                "LOUNAS2": "Smoked salmon sauce with spinach ravioli", 
+                "LOUNAS3": "Grilled whitefish with creamy spinach"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Meatballs, Creamy pepper sauce", 
+                "LOUNAS 2 HR": "Breast of chicken, Light sour cream sauce with curry", 
+                "LOUNAS KASVIS HR": "Vegetarian spring rolls, Light sour cream sauce with curry, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Salmon solyanka"
+            }, 
+            "date": "11.1.2013"
+        }, 
+        "5": {}, 
+        "Dot_open": "Palvelemme opiskelija-asiakkaitamme arkisin klo 11-14 ravintola Juvenes Ravintola Ziberian tiloissa, Tervetuloa!", 
+        "Grill & Parila & Combo_open": "Ma-Pe 11.00-14.00", 
+        "Ziberia_open": "Palvelemme arkisin klo 11.00-14.00 Buffetlounas arkisin klo 11.00-14.00 Iltaisin ja viikonloppuisin palvelemme tilauksesta.", 
+        "error": "Some data could not be fetched."
+    }, 
+    "3": {
+        "0": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Cheddar cheese, Turkey strips", 
+                "LOUNAS 2 HR": "Ground meat patty, Creamy pepper sauce, Potato wedges", 
+                "LOUNAS KASVIS HR": "Root vegetable gratin with cheese, Potato wedges, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Tomato and goat cheese soup"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Turkey strips, Cheddar cheese", 
+                "LOUNAS1": "Chicken wok with ginger, Jasmin rice", 
+                "LOUNAS2": "Fried vendaces with mashed potatoes", 
+                "LOUNAS3": "Over cooked beef brisket with thyme sauce"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Mexican style chicken stew", 
+                "LOUNAS 2 HR": "Ground meat patty, Creamy pepper sauce, Potato wedges", 
+                "LOUNAS KASVIS HR": "Root vegetable gratin with cheese, Potato wedges, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Tomato and goat cheese soup"
+            }, 
+            "date": "14.1.2013"
+        }, 
+        "1": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Cheddar cheese, Turkey strips", 
+                "LOUNAS 2 HR": "Beef stew with ginger", 
+                "LOUNAS KASVIS HR": "Asian style vegetarian patties, Sour cream with cucumber, Carrots with tarragon", 
+                "LOUNAS KEITTO HR": "Creamy chicken soup"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Turkey strips, Cheddar cheese", 
+                "LOUNAS1": "Chicken wok with ginger, Jasmin rice", 
+                "LOUNAS2": "Fried vendaces with mashed potatoes", 
+                "LOUNAS3": "Over cooked beef brisket with thyme sauce"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Salsa fish", 
+                "LOUNAS 2 HR": "Beef stew with ginger", 
+                "LOUNAS KASVIS HR": "Asian style vegetarian patties, Sour cream with cucumber, Carrots with tarragon", 
+                "LOUNAS KEITTO HR": "Creamy chicken soup"
+            }, 
+            "date": "15.1.2013"
+        }, 
+        "2": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Cheddar cheese, Turkey strips", 
+                "LOUNAS 2 HR": "Minced meat and macaroni casserole", 
+                "LOUNAS KASVIS HR": "Chili sin carne, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Root vegetable and ginger puree soup"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Turkey strips, Cheddar cheese", 
+                "LOUNAS1": "Chicken wok with ginger, Jasmin rice", 
+                "LOUNAS2": "Fried vendaces with mashed potatoes", 
+                "LOUNAS3": "Over cooked beef brisket with thyme sauce"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Chicken breast fillet, Sour cream with pesto, Potato wedges", 
+                "LOUNAS 2 HR": "Minced meat and macaroni casserole", 
+                "LOUNAS KASVIS HR": "Chili sin carne, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Root vegetable and ginger puree soup"
+            }, 
+            "date": "16.1.2013"
+        }, 
+        "3": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Tuna, Salami strips", 
+                "LOUNAS 2 HR": "Feta cheese and chicken casserole", 
+                "LOUNAS KASVIS HR": "Vegetable stuffed pasta rolls in creamy herb sauce, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Vegetarian pea soup, Pancakes, Jam"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Tuna, Salami strips", 
+                "LOUNAS1": "Devils beef burger, French fries", 
+                "LOUNAS2": "Pork steak with creamy mushroom sauce", 
+                "LOUNAS3": "Over cooked beef brisket with thyme sauce"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Saut\u00e9d game, Mashed potatoes, Lingonberry jam", 
+                "LOUNAS 2 HR": "Feta cheese and chicken casserole", 
+                "LOUNAS KASVIS HR": "Vegetable stuffed pasta rolls in creamy herb sauce, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Vegetarian pea soup, Pancakes, Jam"
+            }, 
+            "date": "17.1.2013"
+        }, 
+        "4": {
+            "Dot": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Tuna, Salami strips", 
+                "LOUNAS 2 HR": "Salmon and saithe soft cheese sauce", 
+                "LOUNAS KASVIS HR": "Feta cheese and vegetable pizza, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Black salsify soup"
+            }, 
+            "Grill & Parila & Combo": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Tuna, Salami strips", 
+                "LOUNAS1": "Devils beef burger, French fries", 
+                "LOUNAS2": "Pork steak with creamy mushroom sauce", 
+                "LOUNAS3": "Over cooked beef brisket with thyme sauce"
+            }, 
+            "Ziberia": {
+                "LOUNAS 1 HR": "Pork fillet with green peppers, Red wine sauce, Parsley potatoes", 
+                "LOUNAS 2 HR": "Salmon and saithe soft cheese sauce, Parsley potatoes", 
+                "LOUNAS KASVIS HR": "Feta cheese and vegetable pizza, Oven vegetables", 
+                "LOUNAS KEITTO HR": "Black salsify soup"
+            }, 
+            "date": "18.1.2013"
+        }, 
+        "5": {}, 
+        "Dot_open": "Palvelemme opiskelija-asiakkaitamme arkisin klo 11-14 ravintola Juvenes Ravintola Ziberian tiloissa, Tervetuloa!", 
+        "Grill & Parila & Combo_open": "Ma-Pe 11.00-14.00", 
+        "Ziberia_open": "Palvelemme arkisin klo 11.00-14.00 Buffetlounas arkisin klo 11.00-14.00 Iltaisin ja viikonloppuisin palvelemme tilauksesta.", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1357634164.144833
+}

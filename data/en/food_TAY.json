@@ -1,0 +1,315 @@
+{
+    "2": {
+        "0": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Potato and leek puree soup, Cheese and rice salad, Bean salad, Marinated vegetables, Peanuts, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Vegetable patty, Wild mushroom sauce", 
+                "LOUNAS1": "Breast of chicken, Wild mushroom sauce", 
+                "PIZZA": "Chicken pizza"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with bbq sauce, French fries", 
+                "FUSION KASVIS": "Vegetarian burger, French fries", 
+                "FUSION PIHVI": "Grilled pork with blue cheese sauce", 
+                "FUSION WOKKI": "Chicken wok with bbq sauce"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Vegetable patty, Wild mushroom sauce", 
+                "LOUNAS1": "Breast of chicken, Wild mushroom sauce", 
+                "LOUNAS2": "Bolognese sauce"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Potato and leek puree soup, Cheese and rice salad, Bean salad, Marinated vegetables, Peanuts, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Vegetable patty, Wild mushroom sauce, Roasted root vegetables", 
+                "LOUNAS1": "Breast of chicken, Wild mushroom sauce", 
+                "LOUNAS2": "Bolognese sauce"
+            }, 
+            "date": "7.1.2013"
+        }, 
+        "1": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Sweet potato puree soup, Tuna fish and vegetable salad, Giant bean and broccoli salad, Green salad with beans, Peanuts, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Vegetable stuffed crepes, Light sour cream sauce with chives", 
+                "LOUNAS1": "Lemon-flavored white fish, Light sour cream sauce with chives", 
+                "PIZZA": "Minced meat and bacon pizza"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with bbq sauce, French fries", 
+                "FUSION KASVIS": "Vegetarian burger, French fries", 
+                "FUSION PIHVI": "Grilled pork with blue cheese sauce", 
+                "FUSION WOKKI": "Chicken wok with bbq sauce"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Vegetable stuffed crepes, Light sour cream sauce with chives", 
+                "LOUNAS1": "Lemon-flavored white fish, Light sour cream sauce with chives", 
+                "LOUNAS2": "Minced meat and macaroni casserole"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Sweet potato puree soup, Tuna fish and vegetable salad, Giant bean and broccoli salad, Green salad with beans, Peanuts, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Vegetable stuffed crepes, Light sour cream sauce with chives, Wasabi vegetables", 
+                "LOUNAS1": "Lemon flavoured fish, Light sour cream sauce with chives", 
+                "LOUNAS2": "Minced meat and macaroni casserole"
+            }, 
+            "date": "8.1.2013"
+        }, 
+        "2": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Vegetable puree soup, Mexican style chicken salad, Potato and bean salad, Marinated soya, Peanuts, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Vegetables and bean stew", 
+                "LOUNAS1": "Pork steak in dark apple sauce", 
+                "PIZZA": "Metwurst and pineapple pizza"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with bbq sauce, French fries", 
+                "FUSION KASVIS": "Vegetarian burger, French fries", 
+                "FUSION PIHVI": "Pesto gratinated salmon with grill potato", 
+                "FUSION WOKKI": "Chicken wok with bbq sauce"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Vegetables and bean stew", 
+                "LOUNAS1": "Pork steak in dark apple sauce", 
+                "LOUNAS2": "Salsa fish, Tomatinokastike [L] [M] [G]"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Vegetable puree soup, Mexican style chicken salad, Potato and bean salad, Marinated soya, Peanuts, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Vegetables and bean stew, Rice with herbs, Wok vegetables", 
+                "LOUNAS1": "Pork steak in dark apple sauce", 
+                "LOUNAS2": "Salsa fish, Tomatinokastike [L] [M] [G]"
+            }, 
+            "date": "9.1.2013"
+        }, 
+        "3": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Tomato chickpea soup, Feta cheese salad, Wheat grain salad, Marinated chickpeas, Peanuts, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Vegetable and quinoa steaks, Vegetable tomato salsa sauce", 
+                "LOUNAS1": "Cheese stuffed fish, Vegetable tomato salsa sauce", 
+                "PIZZA": "Tuna fish pizza", 
+                "RUOKAISA KEITTO": "Pea soup, Pancake, Jam"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Chicken burger with mozzarella, French fries", 
+                "FUSION KASVIS": "Soya bean burger, French fries", 
+                "FUSION PIHVI": "Pesto gratinated salmon with grill potato"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Vegetable and quinoa steaks, Vegetable tomato salsa sauce", 
+                "LOUNAS1": "Cheese stuffed fish, Vegetable tomato salsa sauce", 
+                "RUOKAISA KEITTO": "Pea soup, Pancake, Jam"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Tomato chickpea soup, Feta cheese salad, Wheat grain salad, Marinated chickpeas, Peanuts, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Vegetable and quinoa steaks, Turmeric sauce, Roasted root vegetables", 
+                "LOUNAS1": "Cheese stuffed fish, Turmeric sauce", 
+                "RUOKAISA KEITTO": "Pea soup, Pancake, Jam"
+            }, 
+            "date": "10.1.2013"
+        }, 
+        "4": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Onion soup, Shrimp and egg salad, Lentil salad, Marinated soya, Peanuts, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Soya and vegetable pastry, Spicy yogurt sauce", 
+                "LOUNAS1": "Meatballs, Pepper sauce", 
+                "PIZZA": "Ham and pineapple pizza"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Chicken burger with mozzarella, French fries", 
+                "FUSION KASVIS": "Soya bean burger, French fries", 
+                "FUSION PIHVI": "Pesto gratinated salmon with grill potato"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Soya and vegetable pastry, Spicy yogurt sauce", 
+                "LOUNAS1": "Meatballs, Pepper sauce", 
+                "LOUNAS2": "Salmon and pasta casserole"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Onion soup, Shrimp and egg salad, Lentil salad, Marinated soya, Peanuts, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Vegetarian potato hash, Spicy yogurt sauce, Roasted root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Meatballs, Pepper sauce", 
+                "LOUNAS2": "Salmon and pasta casserole"
+            }, 
+            "date": "11.1.2013"
+        }, 
+        "5": {
+            "Alakuppila": {}, 
+            "Caf\u00e9 & LunchPinni": {}, 
+            "Intro": {}, 
+            "Salaattibaari": {}, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Vegetarian balls, Turmeric and vegetable sauce, Roasted carrots and soya beans", 
+                "LOUNAS1": "Oven baked salmon, Turmeric and vegetable sauce", 
+                "LOUNAS2": "Frikadelles in chili tomato sauce"
+            }, 
+            "date": ""
+        }, 
+        "Alakuppila_open": "Avoinna :  Ma - To 8.30 - 19.00 Lounas 10.30-17.00 Pe 8.30 - 15.00 Lounas 10.30-14.00", 
+        "Caf\u00e9 & LunchPinni_open": "Avoinna :   Ma - To 9.00 - 16.00 Pe         9.00 - 15.00 Lounas 10.30 - 14.00", 
+        "Fusion Kitchen_open": "Avoinna   Ma - Pe 10.30-13.30", 
+        "Intro_open": "Avoinna   Ma - Pe 10.30-13.30", 
+        "Salaattibaari_open": "Avoinna   Ma - Pe 10.30-13.30", 
+        "Yliopiston ravintola_open": "Avoinna   Ma - Pe 10.30-13.30", 
+        "error": "Some data could not be fetched."
+    }, 
+    "3": {
+        "0": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Cauliflower soup, Feta cheese salad, Tofu and olive salad, Herb marinated mushrooms, Peanuts, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Ratatouille with white beans", 
+                "LOUNAS1": "Chicken patties stuffed with cheese, Spicy chimichurri sauce", 
+                "PIZZA": "Kebab pizza"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Ratatouille with white beans", 
+                "LOUNAS1": "Chicken patties stuffed with cheese, Spicy chimichurri sauce", 
+                "LOUNAS2": "Mexican style shrimp sauce"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Cauliflower soup, Feta cheese salad, Tofu and olive salad, Herb marinated mushrooms, Peanuts, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Ratatouille with white beans, Oven roasted vegetables", 
+                "LOUNAS1": "Chicken patties stuffed with cheese, Spicy chimichurri sauce, Potato", 
+                "LOUNAS2": "Mexican style shrimp sauce"
+            }, 
+            "date": "14.1.2013"
+        }, 
+        "1": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Gazpacho, Frikadelles salad, Giant bean and broccoli salad, Marinated mushrooms, Peanuts, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Vegetables and soya bolognese sauce", 
+                "LOUNAS1": "Oven baked sausage with cheese, Mashed potatoes", 
+                "PIZZA": "Chicken pizza"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Vegetables and soya bolognese sauce", 
+                "LOUNAS1": "Oven baked sausage with cheese, Mashed potatoes", 
+                "LOUNAS2": "Double fillets of baltic herring, Mashed potatoes"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Gazpacho, Frikadelles salad, Giant bean and broccoli salad, Marinated mushrooms, Peanuts, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Vegetables and soya bolognese sauce, Roasted beans and vegetables", 
+                "LOUNAS1": "Oven baked sausage with cheese, Mashed potatoes", 
+                "LOUNAS2": "Double fillets of baltic herring, Mashed potatoes, Lime and dill sauce"
+            }, 
+            "date": "15.1.2013"
+        }, 
+        "2": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Vegetarian spinach soup, Smoked salmon salad, Lentil and vegetable salad, Marinated fresh vegetables, Mantelit, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Cheese stuffed vegetable balls, Spicy chili and herb sauce", 
+                "LOUNAS1": "Oven baked salmon, Spicy chili and herb sauce", 
+                "PIZZA": "Tuna and salami pizza"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Cheese stuffed vegetable balls, Spicy chili and herb sauce", 
+                "LOUNAS1": "Oven baked salmon, Spicy chili and herb sauce", 
+                "LOUNAS2": "Frikadelles in dark pepper sauce"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Vegetarian spinach soup, Smoked salmon salad, Lentil and vegetable salad, Marinated fresh vegetables, Mantelit, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Cheese stuffed vegetable balls, Spicy chili and herb sauce, Roasted carrots", 
+                "LOUNAS1": "Salmon, Spicy chili and herb sauce", 
+                "LOUNAS2": "Frikadelles in dark pepper sauce"
+            }, 
+            "date": "16.1.2013"
+        }, 
+        "3": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Vegetarian mushroom soup, Fruity chicken salad, Fiber pasta, Vegetable and chickpea salad, Marinated fresh vegetables, Peanuts"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Root vegetable crepes, Spicy tandoor sauce", 
+                "LOUNAS1": "Bacon and soft cheese stuffed meat roll, Dark onion sauce", 
+                "PIZZA": "Pizza Frutti di Mare", 
+                "RUOKAISA KEITTO": "Pea soup, Pancake, Jam"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Root vegetable crepes, Spicy tandoor sauce", 
+                "LOUNAS1": "Bacon and soft cheese stuffed meat roll, Dark onion sauce", 
+                "RUOKAISA KEITTO": "Pea soup, Pancake, Jam"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Vegetarian mushroom soup, Fruity chicken salad, Fiber pasta, Vegetable and chickpea salad, Marinated fresh vegetables, Peanuts"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Root vegetable crepes, Spicy tandoor sauce, Roasted vegetables", 
+                "LOUNAS1": "Bacon and soft cheese stuffed meat roll, Dark onion sauce", 
+                "RUOKAISA KEITTO": "Pea soup, Pancake, Jam"
+            }, 
+            "date": "17.1.2013"
+        }, 
+        "4": {
+            "Alakuppila": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Vegetable puree soup, Ham and cottage cheese salad, Bean and radish salad, Marinated fresh vegetables, Mantelit, Raisins"
+            }, 
+            "Caf\u00e9 & LunchPinni": {
+                "LOUNAS Kasvis-": "Vegetable and bean croquettes, Vegetable tomato salsa sauce", 
+                "LOUNAS1": "Chicken fillets in tomato salsa sauce", 
+                "PIZZA": "Turkey and blue cheese pizza"
+            }, 
+            "Intro": {
+                "LOUNAS Kasvis-": "Vegetable and bean croquettes, Vegetable tomato salsa sauce", 
+                "LOUNAS1": "Chicken fillets in tomato salsa sauce", 
+                "LOUNAS2": "Ham and potato casserole"
+            }, 
+            "Salaattibaari": {
+                "SALAATTIBAARI": "Keitto ja salaatit, Vegetable puree soup, Ham and cottage cheese salad, Bean and radish salad, Marinated fresh vegetables, Mantelit, Raisins"
+            }, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Vegetable and bean croquettes, Vegetable tomato salsa sauce, Roasted carrots and soya beans", 
+                "LOUNAS1": "Chicken fillets in tomato salsa sauce", 
+                "LOUNAS2": "Ham and potato casserole"
+            }, 
+            "date": "18.1.2013"
+        }, 
+        "5": {
+            "Alakuppila": {}, 
+            "Caf\u00e9 & LunchPinni": {}, 
+            "Intro": {}, 
+            "Salaattibaari": {}, 
+            "Yliopiston ravintola": {
+                "LOUNAS Kasvis-": "Feta cheese and spinach pie, Fresh vegetables", 
+                "LOUNAS1": "Salmon, Bearnaise sauce with chili, Fresh vegetables", 
+                "LOUNAS2": "Sauce bolognese, Spaghetti"
+            }, 
+            "date": ""
+        }, 
+        "Alakuppila_open": "Avoinna :  Ma - To 8.30 - 19.00 Lounas 10.30-17.00 Pe 8.30 - 15.00 Lounas 10.30-14.00", 
+        "Caf\u00e9 & LunchPinni_open": "Avoinna :   Ma - To 9.00 - 16.00 Pe         9.00 - 15.00 Lounas 10.30 - 14.00", 
+        "Intro_open": "Avoinna   Ma - Pe 10.30-13.30", 
+        "Salaattibaari_open": "Avoinna   Ma - Pe 10.30-13.30", 
+        "Yliopiston ravintola_open": "Avoinna   Ma - Pe 10.30-13.30", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1357634147.805595
+}

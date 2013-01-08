@@ -1,0 +1,187 @@
+{
+    "2": {
+        "0": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Bacon and beef burger, French fries", 
+                "FUSION WOKKI": "Chicken wok with bbq sauce", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {
+                "KEITTO": "Creamy soup with salmon and saithe", 
+                "LOUNAS Kasvis-": "Vegetable patty, Wild mushroom sauce, Root vegetables with coriander", 
+                "LOUNAS1": "Breast of chicken, Wild mushroom sauce", 
+                "LOUNAS2": "Bolognese sauce"
+            }, 
+            "date": "7.1.2013"
+        }, 
+        "1": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Bacon and beef burger, French fries", 
+                "FUSION WOKKI": "Chicken wok with bbq sauce", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {
+                "KEITTO": "Sweet potato puree soup", 
+                "LOUNAS Kasvis-": "Root vegetable crepes, Spicy chili and herb sauce, Roasted beans and vegetables", 
+                "LOUNAS1": "Oven baked salmon, Spicy chili and herb sauce", 
+                "LOUNAS2": "Frikadelles in dark pepper sauce"
+            }, 
+            "date": "8.1.2013"
+        }, 
+        "2": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Bacon and beef burger, French fries", 
+                "FUSION WOKKI": "Chicken wok with bbq sauce", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {
+                "KEITTO": "Asparagus soup", 
+                "LOUNAS Kasvis-": "Vegetables and bean stew, Rice with herbs, Roasted root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Pork steak in dark apple sauce", 
+                "LOUNAS2": "Salsa fish, Tomatinokastike [L] [M] [G]"
+            }, 
+            "date": "9.1.2013"
+        }, 
+        "3": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with salsa, French fries", 
+                "FUSION WOKKI": "Chicken wok with bbq sauce", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {
+                "KEITTO": "Pea soup, Pancake, Jam", 
+                "LOUNAS Kasvis-": "Vegetable and quinoa steaks, Vegetable tomato salsa sauce, Oven baked root vegetables", 
+                "LOUNAS1": "Cheese stuffed fish, Vegetable tomato salsa sauce"
+            }, 
+            "date": "10.1.2013"
+        }, 
+        "4": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with salsa, French fries", 
+                "FUSION WOKKI": "Chicken wok with bbq sauce", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {}, 
+            "Medica?": {
+                "KEITTO": "Frankfurter soup", 
+                "LOUNAS Kasvis-": "Soya and vegetable pastry, Spicy yogurt sauce, Roasted carrots", 
+                "LOUNAS1": "Bacon and soft cheese stuffed meat roll, Pepper sauce", 
+                "LOUNAS2": "Salmon and pasta casserole"
+            }, 
+            "date": "11.1.2013"
+        }, 
+        "5": {
+            "Fusion Kitchen": {}, 
+            "date": ""
+        }, 
+        "Fusion Kitchen_open": "ma- to klo 9.00- 15.00 pe klo 9.00- 14.00 Lounas ma-pe klo 10.45- 13.30 Fusion Kitchen ma- to klo 10.45- 14.30 pe klo 10.45- 13.00", 
+        "Medica Arvo_open": "ma- to klo 9.00- 15.00 pe klo 9.00- 14.00 Lounas ma-pe klo 10.45- 13.30 Fusion Kitchen ma- to klo 10.45- 14.30 pe klo 10.45- 13.00", 
+        "Medica?_open": "", 
+        "error": "Some data could not be fetched."
+    }, 
+    "3": {
+        "0": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Chicken burger with mozzarella, French fries", 
+                "FUSION PIHVI": "Pork steak with bearnaise sauce", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {
+                "LOUNAS Kasvis-": "Ratatouille with white beans, Roasted carrots and soya beans", 
+                "LOUNAS1": "Chicken patties stuffed with cheese, Spicy chimichurri sauce"
+            }, 
+            "Medica?": {
+                "KEITTO": "Potato and leek puree soup", 
+                "LOUNAS Kasvis-": "Ratatouille with white beans, Roasted carrots and soya beans", 
+                "LOUNAS1": "Chicken patties stuffed with cheese, Spicy chimichurri sauce", 
+                "LOUNAS2": "Mexican style shrimp sauce"
+            }, 
+            "date": "14.1.2013"
+        }, 
+        "1": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Chicken burger with mozzarella, French fries", 
+                "FUSION PIHVI": "Pork steak with bearnaise sauce", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {
+                "LOUNAS Kasvis-": "Vegetables and soya bolognese sauce, Roasted beans and vegetables", 
+                "LOUNAS1": "Oven baked sausage with cheese, Mashed potatoes"
+            }, 
+            "Medica?": {
+                "KEITTO": "Chicken soup", 
+                "LOUNAS Kasvis-": "Vegetables and soya bolognese sauce, Roasted beans and vegetables", 
+                "LOUNAS1": "Oven baked sausage with cheese, Mashed potatoes", 
+                "LOUNAS2": "Double fillets of baltic herring, Melted butter with dill, Mashed potatoes"
+            }, 
+            "date": "15.1.2013"
+        }, 
+        "2": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Chicken burger with mozzarella, French fries", 
+                "FUSION PIHVI": "Pork steak with bearnaise sauce", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {
+                "LOUNAS Kasvis-": "Vegetable stuffed crepes, Light sour cream sauce with chives, Roasted carrots", 
+                "LOUNAS1": "Lemon flavoured fish, Light sour cream sauce with chives"
+            }, 
+            "Medica?": {
+                "KEITTO": "Tomato and cauliflower soup", 
+                "LOUNAS Kasvis-": "Vegetable stuffed crepes, Light sour cream sauce with chives, Roasted carrots", 
+                "LOUNAS1": "Lemon flavoured fish, Light sour cream sauce with chives", 
+                "LOUNAS2": "Minced meat and macaroni casserole"
+            }, 
+            "date": "16.1.2013"
+        }, 
+        "3": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with chili, French fries", 
+                "FUSION PIHVI": "Beef steak with seasoned butter", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {
+                "LOUNAS Kasvis-": "Cheese stuffed vegetable balls, Spicy tandoor sauce, Roasted vegetables", 
+                "LOUNAS1": "Chicken fillets in tandoor sauce, Rice with herbs"
+            }, 
+            "Medica?": {
+                "KEITTO": "Pea soup, Pancake, Jam", 
+                "LOUNAS Kasvis-": "Cheese stuffed vegetable balls, Spicy tandoor sauce, Roasted vegetables", 
+                "LOUNAS1": "Chicken fillets in tandoor sauce, Rice with herbs"
+            }, 
+            "date": "17.1.2013"
+        }, 
+        "4": {
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with chili, French fries", 
+                "FUSION PIHVI": "Beef steak with seasoned butter", 
+                "PANINI": "Panini"
+            }, 
+            "Medica Arvo": {
+                "LOUNAS Kasvis-": "Beetroot and tofu cheese au gratin, Oven baked root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Meatballs, Dark onion sauce"
+            }, 
+            "Medica?": {
+                "KEITTO": "Broccoli and cauliflower soup", 
+                "LOUNAS Kasvis-": "Beetroot and tofu cheese au gratin, Oven baked root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Meatballs, Dark onion sauce", 
+                "LOUNAS2": "Ham and potato casserole"
+            }, 
+            "date": "18.1.2013"
+        }, 
+        "5": {
+            "Fusion Kitchen": {}, 
+            "date": ""
+        }, 
+        "Fusion Kitchen_open": "ma- to klo 9.00- 15.00 pe klo 9.00- 14.00 Lounas ma-pe klo 10.45- 13.30 Fusion Kitchen ma- to klo 10.45- 14.30 pe klo 10.45- 13.00", 
+        "Medica Arvo_open": "ma- to klo 9.00- 15.00 pe klo 9.00- 14.00 Lounas ma-pe klo 10.45- 13.30 Fusion Kitchen ma- to klo 10.45- 14.30 pe klo 10.45- 13.00", 
+        "Medica?_open": "", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1357634158.056655
+}

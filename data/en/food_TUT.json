@@ -1,0 +1,500 @@
+{
+    "2": {
+        "0": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Breakfast", 
+                "FAST MEAL": "Devil\u00b4s chicken burger", 
+                "FAST PIZZA": "Tuna pizza, Vegetarian pizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinated tofu, Ham, Chicken strips"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Vegetable sauce with ginger and spinach, Spaghetti", 
+                "LOUNAS1": "Spicy chicken sauce, Spaghetti", 
+                "LOUNAS2": "Shrimp sauce with hoisin, Spaghetti"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Turkey panini, Tuna panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Feta cheese, Ham", 
+                "PANINI": "Panini, Turkey panini, Tuna panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Turkey strips, Lime marinated shrimps", 
+                "PANINI": "Ham panini, Tuna panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Vegetarian patties, Lemon mayonnaise, Carrots with tarragon", 
+                "LOUNAS1": "Salmon, Oven baked salmon with vegetables", 
+                "LOUNAS2": "Kebab and potato casserole"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Chicken and salsa burger, French fries", 
+                "FUSION KASVIS": "Vegetarian burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with seasoned butter", 
+                "FUSION PIHVI": "Pork steak with seasoned butter"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Vegetable stuffed pasta rolls, Cheese sauce with sun-dried tomatoes, Mashed potatoes, Roasted root vegetables", 
+                "LOUNAS1": "Bratwurst, Mashed potatoes, Mustard pickles", 
+                "LOUNAS2": "Chicken and vegetable sauce with smoked chili, Fiber pasta"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Cheesy carrot and basil soup", 
+                "LOUNAS Kasvis-": "Vegetarian spring rolls, Yogurt sauce with cucumber, Wok vegetables", 
+                "LOUNAS1": "Hamburger steak, Grilled onion slices, Brown sauce", 
+                "LOUNAS2": "Spicy meetwurst and pasta casserole"
+            }, 
+            "date": "7.1.2013"
+        }, 
+        "1": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Breakfast", 
+                "FAST MEAL": "Devil\u00b4s chicken burger", 
+                "FAST PIZZA": "Tuna pizza, Vegetarian pizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinated tofu, Ham, Chicken strips"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Vegetable sauce with ginger and spinach, Spaghetti", 
+                "LOUNAS1": "Spicy chicken sauce, Spaghetti", 
+                "LOUNAS2": "Shrimp sauce with hoisin, Spaghetti"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Turkey panini, Metwurst panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Ham, Feta cheese", 
+                "PANINI": "Panini, Turkey panini, Metwurst panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Turkey strips, Lime marinated shrimps", 
+                "PANINI": "Pepperoni panini, Chicken panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Feta cheese and vegetable pizza", 
+                "LOUNAS1": "Ham and pineapple pizza", 
+                "LOUNAS2": "Fruity chicken stew"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Chicken and salsa burger, French fries", 
+                "FUSION KASVIS": "Vegetarian burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with seasoned butter", 
+                "FUSION PIHVI": "Pork steak with seasoned butter"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Vegetable stew with smoked pepper, Light sour cream sauce with coriander, Roasted root vegetables", 
+                "LOUNAS1": "Gratinated chicken fillet, Tomato sauce", 
+                "LOUNAS2": "Frankfurter stroganoff"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Asparagus soup", 
+                "LOUNAS Kasvis-": "Vegetarian hamburger, Fajita flavored oven baked potatoes, Wok vegetables", 
+                "LOUNAS1": "Hamburger, Fajita flavored oven baked potatoes", 
+                "LOUNAS2": "Shrimp wok"
+            }, 
+            "date": "8.1.2013"
+        }, 
+        "2": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Breakfast", 
+                "FAST MEAL": "Beef and barbeque burger", 
+                "FAST PIZZA": "Kebab pizza, Vegetarian pizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinated soya, Tuna, Ham"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Tomato and pesto sauce, Spinach stuffed pasta", 
+                "LOUNAS1": "Meetwurst and mushroom sauce, Spinach stuffed pasta", 
+                "LOUNAS2": "Bacon and red onion sauce, Spinach stuffed pasta"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Turkey panini, Metwurst panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Ham, Feta cheese", 
+                "PANINI": "Panini, Turkey panini, Metwurst panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Turkey strips, Lime marinated shrimps", 
+                "PANINI": "Ham panini, Turkey panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Vegetable patties, Tomato and basil sauce, Carrots with tarragon", 
+                "LOUNAS1": "Ground meat skewers, Tomato and basil sauce", 
+                "LOUNAS2": "Tonnikalakastike, Fiber pasta"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Double cheese burger, French fries", 
+                "FUSION KASVIS": "Vegetarian burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with seasoned butter", 
+                "FUSION PIHVI": "Pork steak with seasoned butter"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Spicy bean and vegetables stew, Vegetables risotto, Roasted root vegetables", 
+                "LOUNAS1": "Pork cutlets in creamy mustard sauce", 
+                "LOUNAS2": "Frikadelles in dark pepper sauce"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Root vegetable puree soup", 
+                "LOUNAS Kasvis-": "Chili bean patties, Light sour cream sauce with chili and mango, Wok vegetables", 
+                "LOUNAS1": "Flounder fillet, Light sour cream sauce with chili and mango", 
+                "LOUNAS2": "Chicken and bacon sauce, Spaghetti"
+            }, 
+            "date": "9.1.2013"
+        }, 
+        "3": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Breakfast", 
+                "FAST MEAL": "Beef and barbeque burger", 
+                "FAST PIZZA": "Kebab pizza, Vegetarian pizza", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinated soya, Cheese cubes, Tuna"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Tomato and pesto sauce, Spinach stuffed pasta", 
+                "LOUNAS1": "Meetwurst and mushroom sauce, Spinach stuffed pasta", 
+                "LOUNAS2": "Bacon and red onion sauce, Spinach stuffed pasta"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Turkey panini, Ham panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Blue cheese, Small meat balls with chili", 
+                "PANINI": "Panini, Turkey panini, Ham panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Small meat balls with chili, Cheddar cheese", 
+                "PANINI": "Pepperoni panini, Chicken panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Tomato and zucchini bake, Roasted root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Pork escalope, Creamy mustard sauce", 
+                "LOUNAS2": "Pea soup,  Pancake and jam"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Double cheese burger, French fries", 
+                "FUSION KASVIS": "Vegetarian burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with seasoned butter", 
+                "FUSION PIHVI": "Pork steak with seasoned butter"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Chickpea patties, Lemon mayonnaise, Fresh vegetables", 
+                "LOUNAS1": "Salmon patties, Lemon mayonnaise", 
+                "LOUNAS2": "Chicken in feta cheese sauce"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Tomato and basil soup", 
+                "LOUNAS Kasvis-": "Carrot patties, Lingonberry jam, Whole grain barley, Roasted carrots and soya beans", 
+                "LOUNAS1": "Chicken fillets in honey curry sauce", 
+                "LOUNAS2": "Salmon and pasta casserole"
+            }, 
+            "date": "10.1.2013"
+        }, 
+        "4": {
+            "Caf\u00e9 & FastVoltti": {
+                "FAST MEAL": "Chicken wings, Blue cheese sour cream sauce", 
+                "RUOKAISA KOMPONENTTI": "Combosalaatit, Marinated soya, Cheese cubes, Tuna"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Ham panini, Turkey panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Blue cheese, Small meat balls with chili", 
+                "PANINI": "Panini, Ham panini, Turkey panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Small meat balls with chili, Cheddar cheese", 
+                "PANINI": "Ham panini, Turkey panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Tofu and chickpea patties, Light sour cream sauce with chili and mango, Whole grain barley, Roasted root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Lemon flavoured fish, Light sour cream sauce with chili and mango, Mashed potatoes", 
+                "LOUNAS2": "Cream of spinach soup, Boiled egg, Karelian pie"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Double cheese burger, French fries", 
+                "FUSION KASVIS": "Vegetarian burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with seasoned butter", 
+                "FUSION PIHVI": "Pork steak with seasoned butter"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Tomato and zucchini bake, Fresh vegetables", 
+                "LOUNAS1": "Turkey patties, Soft cheese sauce with rose pepper, Jasmin rice", 
+                "LOUNAS2": "Finnish potato hash, Panfried egg"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Cauliflower soup", 
+                "LOUNAS Kasvis-": "Tacos with vegetable filling, Tortilla, Light sour cream sauce with lime, Roasted carrots and soya beans", 
+                "LOUNAS1": "Oven baked sausage with mexican style", 
+                "LOUNAS2": "Meatball wok"
+            }, 
+            "date": "11.1.2013"
+        }, 
+        "5": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Vegetables au gratin", 
+                "LOUNAS1": "Oven baked sausage with mexican style", 
+                "LOUNAS2": "Salmon and coconut soup"
+            }, 
+            "date": "12.1.2013"
+        }, 
+        "Caf\u00e9 & FastVoltti_open": "  Kahvila Voltti ma-to 8.30-18.30 pe 8.45-15.00 Aamiainen ma-to 8.30-10.00 Voltti & Fast ma-to 11.30-15.00 pe 11.30-14.00", 
+        "Caf\u00e9 & Pastabaari Voltti_open": "ma-to 15-18.30", 
+        "Caf\u00e9 Joule_open": "Ma-To 9.00-21.30 Pe 9.00-20.00 Kelan ateriatuettu paniniateria klo 10.30-16.00  Kahvila suljettu 13.12.2012-6.1.2013", 
+        "Caf\u00e9 Motivaattori_open": "ma-to klo 8.45-17.00 pe 8.45-16.00 2.-4.1.2013 klo 8.45-15.30", 
+        "Caf\u00e9 Rom_open": "ma-to 8.30-17.30 pe 8.30-16.00 5.12.2012 avoinna klo. 8.30-14.00 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "Edison_open": "ma-to 10:30-15:00 pe 10:30-14:30 la 11:00-14:00", 
+        "Fusion Kitchen_open": "ma-pe klo 10.30-14.30 2.-4.1.2013 klo 10.30-14.00", 
+        "Newton_open": "ma-to klo 10.30-16.00 pe 10.30-15.00 2.-4.1.2013 klo 10.30-15.00", 
+        "Zip_open": "Ma-to 10.30-15.00 Pe 10.30-14.30 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "error": "Some data could not be fetched."
+    }, 
+    "3": {
+        "0": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Breakfast", 
+                "FAST MEAL": "Beef and salsa burger", 
+                "FAST PIZZA": "Ham and blue cheese pizza, Vegetarian pizza", 
+                "RUOKAISA KOMPONENTTI": "Combo salads, Marinated tofu, Feta cheese, Frikadelles"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Cauliflower and blue cheese sauce, Spinach stuffed pasta", 
+                "LOUNAS1": "Bolognaise, Spinach stuffed pasta", 
+                "LOUNAS2": "Fish sauce with pesto, Spinach stuffed pasta"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Ham panini, Tuna panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Meetwurst, Tuna", 
+                "PANINI": "Panini, Ham panini, Tuna panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Chicken strips, Cheddar cheese", 
+                "PANINI": "Panini, Ham panini, Tuna panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Quesadilla with vegetable filling, Garlic sour cream sauce, Potato wedges, Roasted root vegetables", 
+                "LOUNAS1": "Meatballs, Creamy sweet pepper sauce, Potato wedges", 
+                "LOUNAS2": "Salmon and saithe soft cheese sauce"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Devil\u00b4s chicken burger, French fries", 
+                "FUSION KASVIS": "Rye- soya bean burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with red wine sauce", 
+                "FUSION PIHVI": "Pork steak with red wine sauce"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Vegetables with cajun spices, Oven baked beet roots", 
+                "LOUNAS1": "Chicken fillets in barbeque sauce", 
+                "LOUNAS2": "Spicy kebab sauce, Fiber pasta"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Noodle and vegetable soup", 
+                "LOUNAS Kasvis-": "Lentil and vegetable moussaka, Oven baked root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Salmon, Light sour cream sauce with dill", 
+                "LOUNAS2": "Chicken and vegetable wok"
+            }, 
+            "date": "14.1.2013"
+        }, 
+        "1": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Breakfast", 
+                "FAST MEAL": "Beef and salsa burger", 
+                "FAST PIZZA": "Ham and blue cheese pizza, Vegetarian pizza", 
+                "RUOKAISA KOMPONENTTI": "Combo salads, Marinated tofu, Feta cheese, Frikadelles"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Cauliflower and blue cheese sauce, Spinach stuffed pasta", 
+                "LOUNAS1": "Bolognaise, Spinach stuffed pasta", 
+                "LOUNAS2": "Fish sauce with pesto, Spinach stuffed pasta"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Ham panini, Chicken panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Meetwurst, Tuna", 
+                "PANINI": "Panini, Ham panini, Chicken panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Chicken strips, Cheddar cheese", 
+                "PANINI": "Panini, Ham panini, Chicken panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Soya and noodles casserole, Roasted root vegetables", 
+                "LOUNAS1": "Chicken nuggets, Soft cheese sauce with rose pepper", 
+                "LOUNAS2": "Ham and pasta casserole"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Devil\u00b4s chicken burger, French fries", 
+                "FUSION KASVIS": "Rye- soya bean burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with red wine sauce", 
+                "FUSION PIHVI": "Pork steak with red wine sauce"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Root vegetable patties, Spicy tomato sauce, Oven baked beet roots", 
+                "LOUNAS1": "Small hamburger steaks, Spicy tomato sauce", 
+                "LOUNAS2": "Chicken in blue cheese and pepper sauce, Whole grains pasta"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Sweet potato puree soup", 
+                "LOUNAS Kasvis-": "Soya and peanut pie, Oven baked root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Pork steak, Creamy sauce", 
+                "LOUNAS2": "Spicy ground meat sauce, Spaghetti"
+            }, 
+            "date": "15.1.2013"
+        }, 
+        "2": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Breakfast", 
+                "FAST MEAL": "Grilled kebab bread", 
+                "FAST PIZZA": "Turkey pizza, Vegetarian pizza", 
+                "RUOKAISA KOMPONENTTI": "Combo salads, Marinated tofu, Feta cheese, Frikadelles"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Vegetable sauce with soya, Spaghetti", 
+                "LOUNAS1": "Turkey and bbq sauce, Spaghetti", 
+                "LOUNAS2": "Meatballs in soft cheese sauce, Spaghetti"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Ham panini, Chicken panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Meetwurst, Tuna", 
+                "PANINI": "Panini, Ham panini, Chicken panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Chicken strips, Cheddar cheese", 
+                "PANINI": "Panini, Ham panini, Turkey panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Lentil-vegetable balls, Vegetable sauce with chili, Roasted root vegetables", 
+                "LOUNAS1": "Chorizo sausage steak, Mustard pickles, Mashed potatoes", 
+                "LOUNAS2": "Leg of chicken, Vegetable sauce with chili"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with salsa, French fries", 
+                "FUSION KASVIS": "Rye- soya bean burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with red wine sauce", 
+                "FUSION PIHVI": "Pork steak with red wine sauce"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Tomato and mozzarella pasta bake, Oven baked beet roots", 
+                "LOUNAS1": "Lemon flavoured fish, Tartar sauce", 
+                "LOUNAS2": "Sausage sauce"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Spicy tomato soup", 
+                "LOUNAS Kasvis-": "Lentil-vegetable patties, Spicy chili and herb sauce, Oven baked root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Grilled chicken breast fillet, Spicy chili and herb sauce", 
+                "LOUNAS2": "Ham and carbonara sauce, Fiber pasta"
+            }, 
+            "date": "16.1.2013"
+        }, 
+        "3": {
+            "Caf\u00e9 & FastVoltti": {
+                "AAMIAINEN": "Breakfast", 
+                "FAST MEAL": "Grilled kebab bread", 
+                "FAST PIZZA": "Turkey pizza, Vegetarian pizza", 
+                "RUOKAISA KOMPONENTTI": "Combo salads, Marinated soya, Smoked salmon, Blue cheese"
+            }, 
+            "Caf\u00e9 & Pastabaari Voltti": {
+                "LOUNAS Kasvis-": "Vegetable sauce with soya, Spaghetti", 
+                "LOUNAS1": "Turkey and bbq sauce, Spaghetti", 
+                "LOUNAS2": "Meatballs in soft cheese sauce, Spaghetti"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Ham panini, Pepperoni panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Cheese cubes, Lime marinated shrimps", 
+                "PANINI": "Panini, Ham panini, Pepperoni panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Chicken strips, Meetwurst", 
+                "PANINI": "Panini, Ham panini, Chicken panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Beetroot patties, Barbeque sauce, Roasted vegetables with pesto", 
+                "LOUNAS1": "Turkey patties, Barbeque sauce", 
+                "LOUNAS2": "Pea soup,  Pancake and jam"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with salsa, French fries", 
+                "FUSION KASVIS": "Rye- soya bean burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with red wine sauce", 
+                "FUSION PIHVI": "Pork steak with red wine sauce"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Vegetarian spring rolls, Yogurt sauce with cucumber, Roasted root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Pork steak in creamy pepper sauce", 
+                "LOUNAS2": "Tuna and pasta casserole"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Creamy mushroom soup", 
+                "LOUNAS Kasvis-": "Tomato and zucchini bake, Carrots with tarragon", 
+                "LOUNAS1": "Hamburger steak, Pepper sauce, Creamy potatoes", 
+                "LOUNAS2": "Turkey wok with bbq sauce"
+            }, 
+            "date": "17.1.2013"
+        }, 
+        "4": {
+            "Caf\u00e9 & FastVoltti": {
+                "FAST MEAL": "Chicken wings, Blue cheese sour cream sauce", 
+                "RUOKAISA KOMPONENTTI": "Combo salads, Marinated soya, Smoked salmon, Blue cheese"
+            }, 
+            "Caf\u00e9 Joule": {
+                "PANINI": "Panini, Ham panini, Pepperoni panini"
+            }, 
+            "Caf\u00e9 Motivaattori": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Cheese cubes, Lime marinated shrimps", 
+                "PANINI": "Panini, Ham panini, Pepperoni panini, Vegan panini"
+            }, 
+            "Caf\u00e9 Rom": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Chicken strips, Meetwurst", 
+                "PANINI": "Panini, Ham panini, Turkey panini, Vegan panini"
+            }, 
+            "Edison": {
+                "LOUNAS Kasvis-": "Vegetable and bean croquettes, Light sour cream sauce with chives, Whole grain rice, Roasted vegetables with pesto", 
+                "LOUNAS1": "Vegetable stuffed fish, Light sour cream sauce with chives, Whole grain rice", 
+                "LOUNAS2": "Frankfurter soup"
+            }, 
+            "Fusion Kitchen": {
+                "FUSION BURGER": "Beef burger with salsa, French fries", 
+                "FUSION KASVIS": "Rye- soya bean burger, French fries", 
+                "FUSION MEAL 2": "Grilled steak with red wine sauce", 
+                "FUSION PIHVI": "Pork steak with red wine sauce"
+            }, 
+            "Newton": {
+                "LOUNAS Kasvis-": "Vegetable patty, Turmeric sauce, Whole grains rice, Roasted root vegetables and pumpkin seeds", 
+                "LOUNAS1": "Chicken schnitzel, Turmeric sauce, Whole grains rice", 
+                "LOUNAS2": "Kebab meatball, Garlic sour cream sauce"
+            }, 
+            "Zip": {
+                "KEVYTKEITTO": "Potato and leek puree soup", 
+                "LOUNAS Kasvis-": "Spinach crepes, Lingonberry jam, Carrots with tarragon", 
+                "LOUNAS1": "Black pudding sausage, Bechamel sauce, Lingonberry jam", 
+                "LOUNAS2": "Chicken balls in cheddar cheese sauce"
+            }, 
+            "date": "18.1.2013"
+        }, 
+        "5": {
+            "Edison": {
+                "LOUNAS Kasvis-": "Spicy bean and vegetables stew", 
+                "LOUNAS1": "Chicken patties stuffed with cheese, Curry and pineapple sauce", 
+                "LOUNAS2": "Tomato and goat cheese soup"
+            }, 
+            "date": "19.1.2013"
+        }, 
+        "Caf\u00e9 & FastVoltti_open": "  Kahvila Voltti ma-to 8.30-18.30 pe 8.45-15.00 Aamiainen ma-to 8.30-10.00 Voltti & Fast ma-to 11.30-15.00 pe 11.30-14.00", 
+        "Caf\u00e9 & Pastabaari Voltti_open": "ma-to 15-18.30", 
+        "Caf\u00e9 Joule_open": "Ma-To 9.00-21.30 Pe 9.00-20.00 Kelan ateriatuettu paniniateria klo 10.30-16.00  Kahvila suljettu 13.12.2012-6.1.2013", 
+        "Caf\u00e9 Motivaattori_open": "ma-to klo 8.45-17.00 pe 8.45-16.00 2.-4.1.2013 klo 8.45-15.30", 
+        "Caf\u00e9 Rom_open": "ma-to 8.30-17.30 pe 8.30-16.00 5.12.2012 avoinna klo. 8.30-14.00 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "Edison_open": "ma-to 10:30-15:00 pe 10:30-14:30 la 11:00-14:00", 
+        "Fusion Kitchen_open": "ma-pe klo 10.30-14.30 2.-4.1.2013 klo 10.30-14.00", 
+        "Newton_open": "ma-to klo 10.30-16.00 pe 10.30-15.00 2.-4.1.2013 klo 10.30-15.00", 
+        "Zip_open": "Ma-to 10.30-15.00 Pe 10.30-14.30 6.12.2012-6.1.2013 Ravintola suljettu!", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1357634141.666173
+}

@@ -1,0 +1,190 @@
+{
+    "2": {
+        "0": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Bacon and beef burger, French fries", 
+                "FUSION PIHVI": "Pepper steak", 
+                "PANINI": "Panini, Chicken panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Ground meat steak with minced beetroot, Grilled onion slices, Brown basic sauce", 
+                "LOUNAS 2 HR": "Chicken fillets, Creamy herb sauce", 
+                "LOUNAS KASVIS HR": "Vegetarian balls, Creamy herb sauce"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Shrimp, BBQ-marinated chicken", 
+                "LOUNAS KEITTO HR": "Sweet potato puree soup"
+            }, 
+            "date": "7.1.2013"
+        }, 
+        "1": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Bacon and beef burger, French fries", 
+                "FUSION PIHVI": "Pepper steak", 
+                "PANINI": "Panini, Chicken panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Tomato and mozzarella gratinated fish, Yoghurt sauce with lemon", 
+                "LOUNAS 2 HR": "Minced meat and macaroni casserole", 
+                "LOUNAS KASVIS HR": "Vegetable patty, Yoghurt sauce with lemon"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, BBQ-marinated chicken, Shrimp", 
+                "LOUNAS KEITTO HR": "Pea puree soup"
+            }, 
+            "date": "8.1.2013"
+        }, 
+        "2": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Bacon and beef burger, French fries", 
+                "FUSION PIHVI": "Pepper steak", 
+                "PANINI": "Panini, Chicken panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Pork escalope, Bearnaise sauce, Parsley potatoes", 
+                "LOUNAS 2 HR": "Salmon and pasta casserole", 
+                "LOUNAS KASVIS HR": "Beet root and blue cheese casserole"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, BBQ-marinated chicken, Shrimp", 
+                "LOUNAS KEITTO HR": "Cream of spinach soup, Egg"
+            }, 
+            "date": "9.1.2013"
+        }, 
+        "3": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Chicken burger with mozzarella, French fries", 
+                "FUSION PIHVI": "Pork steak with seasoned butter", 
+                "PANINI": "Panini, Metwurst panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Kebab meatball, Creamy potatoes", 
+                "LOUNAS 2 HR": "Baltic herrings in tomato sauce", 
+                "LOUNAS KASVIS HR": "Feta cheese and vegetable pizza", 
+                "LOUNAS KEITTO HR": "Pie soup, Pancake, Jam"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Tuna, Cheddar cheese", 
+                "LOUNAS KEITTO HR": "Vegetarian pea soup, Pancake, Jam"
+            }, 
+            "date": "10.1.2013"
+        }, 
+        "4": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Chicken burger with mozzarella, French fries", 
+                "FUSION PIHVI": "Pork steak with seasoned butter", 
+                "PANINI": "Panini, Metwurst panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Beef stew", 
+                "LOUNAS 2 HR": "Chicken fillets in Devil's sauce", 
+                "LOUNAS KASVIS HR": "Warm vegetarian sandwich"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Tuna, Cheddar cheese", 
+                "LOUNAS KEITTO HR": "Cheese soup with herbs"
+            }, 
+            "date": "11.1.2013"
+        }, 
+        "5": {}, 
+        "Fusion Kitchen & Panini Meal_open": "  Joulun aukioloajat: Suljettu 19.12.12-1.1.13. Avoinna 2.-4.1 ke-pe klo 8.00-14.00. Lounas tarjolla ke-pe klo 11.00-12.45.  7.1.2013 l\u00e4htien: Avoinna Ma-Pe klo 07.30-15.00 Lounas Ma-Pe klo 11.00-13.00", 
+        "Nasta_open": "  Joulun aukioloajat: Suljettu 19.12.12-1.1.13. Avoinna 2.-4.1 ke-pe klo 8.00-14.00. Lounas tarjolla ke-pe klo 11.00-12.45.  7.1.2013 l\u00e4htien: Avoinna Ma-Pe klo 07.30-15.00 Lounas Ma-Pe klo 11.00-13.00", 
+        "Salad & Soup, Caf\u00e9 Mesta?_open": "  Joulun aukioloajat: Suljettu 19.12.12-1.1.13. Avoinna 2.-4.1 ke-pe klo 8.00-14.00. Lounas tarjolla ke-pe klo 11.00-12.45.  7.1.2013 l\u00e4htien: Avoinna Ma-Pe klo 07.30-15.00 Lounas Ma-Pe klo 11.00-13.00", 
+        "error": "Some data could not be fetched."
+    }, 
+    "3": {
+        "0": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Beef burger with salsa, French fries", 
+                "FUSION PIHVI": "Grilled steak with seasoned butter", 
+                "PANINI": "Panini, Kebab panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Pork escalope, Lemon and caper mayonnaise, Lemon slice", 
+                "LOUNAS 2 HR": "Chicken and bacon paella, Aioli", 
+                "LOUNAS KASVIS HR": "Vegetable patties, Lemon and caper mayonnaise, Whole grain barley"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Small meat balls with chili, Smoked salmon", 
+                "LOUNAS KEITTO HR": "Asparagus soup"
+            }, 
+            "date": "14.1.2013"
+        }, 
+        "1": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Beef burger with salsa, French fries", 
+                "FUSION PIHVI": "Grilled steak with seasoned butter", 
+                "PANINI": "Panini, Kebab panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Bacon and soft cheese stuffed meat roll, Garlic sour cream sauce, Mashed potatoes", 
+                "LOUNAS 2 HR": "Chicken fillet in mexican style sauce", 
+                "LOUNAS KASVIS HR": "Vegetable gratin"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Small meat balls with chili, Smoked salmon", 
+                "LOUNAS KEITTO HR": "Carrot soup"
+            }, 
+            "date": "15.1.2013"
+        }, 
+        "2": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Beef burger with salsa, French fries", 
+                "FUSION PIHVI": "Grilled steak with seasoned butter", 
+                "PANINI": "Panini, Kebab panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Beef stew", 
+                "LOUNAS 2 HR": "Pike perch balls, Creamy dill sauce", 
+                "LOUNAS KASVIS HR": "Chickpea patties, Creamy dill sauce, Barley with soya"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated soya, Small meat balls with chili, Smoked salmon", 
+                "LOUNAS KEITTO HR": "Potato and leek puree soup"
+            }, 
+            "date": "16.1.2013"
+        }, 
+        "3": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Beef burger with garlic, French fries", 
+                "FUSION PIHVI": "Pork steak with bearnaise sauce", 
+                "PANINI": "Panini, Pepperoni panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Breast of chicken, Creamy herb sauce", 
+                "LOUNAS 2 HR": "Meatballs, Creamy BBQ-sauce", 
+                "LOUNAS KASVIS HR": "Soya and vegetables casserole with mexican spices", 
+                "LOUNAS KEITTO HR": "Pie soup, Pancake, Jam"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Lime marinated shrimps, Kebab meat strips", 
+                "LOUNAS KEITTO HR": "Vegetarian pea soup, Pancake, Jam"
+            }, 
+            "date": "17.1.2013"
+        }, 
+        "4": {
+            "Fusion Kitchen & Panini Meal": {
+                "FUSION BURGER": "Beef burger with garlic, French fries", 
+                "FUSION PIHVI": "Pork steak with bearnaise sauce", 
+                "PANINI": "Panini, Pepperoni panini, Vegetable panini"
+            }, 
+            "Nasta": {
+                "LOUNAS 1 HR": "Pork in mustard relish sauce, Potato wedges", 
+                "LOUNAS 2 HR": "Fish&Chips, Vegetable remoulade sauce", 
+                "LOUNAS KASVIS HR": "Root vegetable patties, Vegetable remoulade sauce, Bulgur wheat"
+            }, 
+            "Salad & Soup, Caf\u00e9 Mesta?": {
+                "COMBOSALAATTI": "Combo salads, Marinated tofu, Lime marinated shrimps, Kebab meat strips", 
+                "LOUNAS KEITTO HR": "Onion soup"
+            }, 
+            "date": "18.1.2013"
+        }, 
+        "5": {}, 
+        "Fusion Kitchen & Panini Meal_open": "  Joulun aukioloajat: Suljettu 19.12.12-1.1.13. Avoinna 2.-4.1 ke-pe klo 8.00-14.00. Lounas tarjolla ke-pe klo 11.00-12.45.  7.1.2013 l\u00e4htien: Avoinna Ma-Pe klo 07.30-15.00 Lounas Ma-Pe klo 11.00-13.00", 
+        "Nasta_open": "  Joulun aukioloajat: Suljettu 19.12.12-1.1.13. Avoinna 2.-4.1 ke-pe klo 8.00-14.00. Lounas tarjolla ke-pe klo 11.00-12.45.  7.1.2013 l\u00e4htien: Avoinna Ma-Pe klo 07.30-15.00 Lounas Ma-Pe klo 11.00-13.00", 
+        "Salad & Soup, Caf\u00e9 Mesta?_open": "  Joulun aukioloajat: Suljettu 19.12.12-1.1.13. Avoinna 2.-4.1 ke-pe klo 8.00-14.00. Lounas tarjolla ke-pe klo 11.00-12.45.  7.1.2013 l\u00e4htien: Avoinna Ma-Pe klo 07.30-15.00 Lounas Ma-Pe klo 11.00-13.00", 
+        "error": "Some data could not be fetched."
+    }, 
+    "fatal_error": "False", 
+    "update_timestamp": 1357634169.989117
+}
