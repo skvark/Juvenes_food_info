@@ -265,9 +265,12 @@ def write_json(language, location, food_dict, restNames):
     data = json.dumps(food_dict, sort_keys=True, indent=4)
 
     if not os.path.exists('data'):
-        os.makedirs('data/en')
-        os.makedirs('data/fi')
-        print 'Creating folders...'
+        try:
+            os.makedirs('data/en')
+            os.makedirs('data/fi')
+            print 'Creating folders...'
+        except:
+            exit('Could not create folders, check file permissions.')
 
     if lang == 'fi':
         f = open('data/'+language+'/ruoka_'+restNames[location]+'.json', 'w+') # overwrite old
